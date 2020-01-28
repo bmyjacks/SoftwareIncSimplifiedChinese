@@ -4,7 +4,7 @@
 
 ## About SoftwareInc
 
-这是一个关于软件开发方面的游戏。
+This is a game about software development.
 
 [Steam Link](https://store.steampowered.com/app/362620)
 
