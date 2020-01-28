@@ -8,11 +8,12 @@
 
 [官网](https://softwareinc.coredumping.com/)
 
-## 如何使用
+## 如何使用？
 
-找到SoftwareInc的安装文件夹，这通常可以再steam中的SoftwareInc图标中点击`右键>属性>本地文件>浏览本地文件`就可以找到了。
+找到SoftwareInc的安装文件夹，这通常可以再Steam中的SoftwareInc图标中点击`右键>属性>本地文件>浏览本地文件`就可以找到了。
 
 打开文件夹后，游戏目录的结构类似于以下这样
+
 ```
 Furniture/
 Localization/
