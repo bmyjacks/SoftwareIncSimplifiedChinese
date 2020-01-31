@@ -2207,32 +2207,32 @@
 		<Item Name="Move">移动</Item>
 		<Item Name="Merge">合并</Item>
 		<Item Name="Roof editor">房顶编辑</Item>
-		<Item Name="RoofAlignTip">Align points to roof edges</Item>
-		<Item Name="RoofStraightTip">Straighten points along a line</Item>
-		<Item Name="RoofDesc">Build roof over selected rooms</Item>
-		<Item Name="RoofIntersectError">Cannot intersect with roof</Item>
-		<Item Name="RoofBasementError">Cannot add roof to rooms in basement</Item>
-		<Item Name="RoofHighError">Cannot build roof that high</Item>
-		<Item Name="RoofAlreadyPresentError">Room already has a roof</Item>
-		<Item Name="RoofAcrossFloorError">You can only build roofs on one floor at a time</Item>
-		<Item Name="RoofNoRoomError">Please select the rooms you want to build a roof over</Item>
-		<Item Name="RoofAdjacentError">Please select adjecent rooms to build a roof over</Item>
-		<Item Name="Include basement">Include basement</Item>
-		<Item Name="Select unsupported rooms">Select unsupported rooms</Item>
-		<Item Name="Focus on object">Focus on object</Item>
-		<Item Name="Assign rooms">Assign rooms</Item>
-		<Item Name="Calendar">Calendar</Item>
-		<Item Name="Working hours">Working hours</Item>
-		<Item Name="StuckEmployee">An employee is unable to get home</Item>
-		<Item Name="NewDLLModVerify">A new code mod: {0}, has been detected. These mods have the potential to alter your system. You should not load a code mod if you do not trust the source.
-Are you sure you want to continue?</Item>
-		<Item Name="AllAccessDLLModVerify">A code mod: {0}, is asking for full access, including access to your files and internet connection. You should not load a code mod if you do not trust the source.
-Are you sure you want to continue?</Item>
-		<Item Name="ChangedDLLModVerify">Changes in the code mod: {0}, has been detected, do you still want to load it?</Item>
-		<Item Name="SteamUploadPrepareError">Wasn't able to prepare mod files for upload</Item>
+		<Item Name="RoofAlignTip">将点与屋顶边缘对齐</Item>
+		<Item Name="RoofStraightTip">将点沿着直线拉直</Item>
+		<Item Name="RoofDesc">在选定的房间上盖屋顶</Item>
+		<Item Name="RoofIntersectError">不能与屋顶相交</Item>
+		<Item Name="RoofBasementError">地下室房间不能增加屋顶</Item>
+		<Item Name="RoofHighError">不能建那么高的屋顶</Item>
+		<Item Name="RoofAlreadyPresentError">房间已经有屋顶了</Item>
+		<Item Name="RoofAcrossFloorError">你一次只能盖一层屋顶</Item>
+		<Item Name="RoofNoRoomError">请选择您想盖屋顶的房间</Item>
+		<Item Name="RoofAdjacentError">请选择相邻的房间盖屋顶</Item>
+		<Item Name="Include basement">包括地下室</Item>
+		<Item Name="Select unsupported rooms">选择不受支持的房间</Item>
+		<Item Name="Focus on object">关注的对象</Item>
+		<Item Name="Assign rooms">分配房间</Item>
+		<Item Name="Calendar">日程表</Item>
+		<Item Name="Working hours">工作时间</Item>
+		<Item Name="StuckEmployee">有一位雇员无法回家</Item>
+		<Item Name="NewDLLModVerify">一个新的代码mod:{0}，已经被检测到。这些mod有可能改变您的系统。如果不相信源代码，就不应该加载代码mod。
+您确定要继续吗?</Item>
+		<Item Name="AllAccessDLLModVerify">一个代码mod:{0}，要求完全访问，包括访问您的文件和互联网连接。如果不相信源代码，就不应该加载代码mod。
+您确定要继续吗?</Item>
+		<Item Name="ChangedDLLModVerify">已检测到代码mod:{0}中的更改，是否仍要加载它？</Item>
+		<Item Name="SteamUploadPrepareError">无法准备要上载的mod文件</Item>
 	</Alpha10.7>
 	<Alpha10.8>
-		<Item Name="OutdoorBasementError">Can't build outdoor areas beneath ground</Item>
+		<Item Name="OutdoorBasementError">不能在地下建立室外区域</Item>
 	</Alpha10.8>
 	<Alpha10.9>
 		<Item Name="Rotate furniture randomly">Rotate furniture randomly</Item>
