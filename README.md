@@ -1,6 +1,8 @@
 # SoftwareInc 的简体中文翻译
 [English version](./README_EN.md)
 
+现在的master分支里的版本为**A10**，需要其他版本的请到branch里搜索。
+
 ## 关于SoftwareInc的介绍
 这是一个关于软件开发方面的游戏。
 

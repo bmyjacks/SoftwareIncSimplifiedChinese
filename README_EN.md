@@ -2,6 +2,8 @@
 
 [中文版](./README.md)
 
+The current version in the master branch is **A10**. If you need other versions, please search in the branch.
+
 ## About SoftwareInc
 
 This is a game about software development.
