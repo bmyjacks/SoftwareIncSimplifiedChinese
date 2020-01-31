@@ -2235,46 +2235,46 @@
 		<Item Name="OutdoorBasementError">不能在地下建立室外区域</Item>
 	</Alpha10.8>
 	<Alpha10.9>
-		<Item Name="Rotate furniture randomly">Rotate furniture randomly</Item>
-		<Item Name="Get the soundtrack">Get the soundtrack</Item>
-		<Item Name="Redelegate selected">Move selected processes</Item>
-		<Item Name="IPDealActionSub">Do you want to transfer this IP to a subsidiary?</Item>
-		<Item Name="IPDealActionSellOrSub">Do you want to sell this IP to {0} for {1} or transfer to a subsidiary?</Item>
-		<Item Name="Transfer IP">Transfer IP</Item>
-		<Item Name="ProjectManagementRelease">The project management team {0} just released the {2}: {3}</Item>
-		<Item Name="SoftwareSupportWaning">It's been awhile since you released {0:Vowel:an,a} {0} and your fans are noticing</Item>
-		<Item Name="FurnitureInLimitRoomWarning">An employee has been assigned {0:Vowel:an,a} {0} in a room that the employee is not allowed in</Item>
-		<Item Name="VacationNotify">{0} went on vacation</Item>
+		<Item Name="Rotate furniture randomly">随机旋转家具</Item>
+		<Item Name="Get the soundtrack">得到原声</Item>
+		<Item Name="Redelegate selected">分配选择的进程</Item>
+		<Item Name="IPDealActionSub">你想把这个IP转给子公司吗?</Item>
+		<Item Name="IPDealActionSellOrSub">你是想把这个IP卖给{0}，换成{1}还是转到子公司?</Item>
+		<Item Name="Transfer IP">交易 IP</Item>
+		<Item Name="ProjectManagementRelease">项目管理团队{0}刚刚发布了{2}:{3}</Item>
+		<Item Name="SoftwareSupportWaning">自从你发布{0:Vowel:an,a}{0}已经有一段时间了，你的粉丝们也注意到了</Item>
+		<Item Name="FurnitureInLimitRoomWarning">一个雇员被分配了{0:Vowel: An,a}{0}在一个不允许雇员进入的房间</Item>
+		<Item Name="VacationNotify">{0} 去度假了</Item>
 		<Item Name="Employee" NamePlural="Employees">{0} [Employee|Employees]</Item>
-		<Item Name="ContractEarly">{0} early</Item>
-		<Item Name="ContractLate">{0} too late</Item>
-		<Item Name="FurnitureQueue">{0} waiting to use</Item>
-		<Item Name="TeamDisbandConfirmation">Are you sure you want to disband {1}:
+		<Item Name="ContractEarly">{0}早期</Item>
+		<Item Name="ContractLate">{0}太迟了</Item>
+		<Item Name="FurnitureQueue">{0}正在等待使用</Item>
+		<Item Name="TeamDisbandConfirmation">你确定要解散 {1}:
 {0}?</Item>
-		<Item Name="Snap to grid">Snap to grid</Item>
-		<Item Name="EmployeeCourseBookError">The {0:Plural:employees,employee} you selected {0:Plural:are,is} already scheduled for courses</Item>
-		<Item Name="SickNotify">{0:FirstOrCount:employees} {0:Plural:have,has} called in sick</Item>
-		<Item Name="GeneralOptionTab">General</Item>
-		<Item Name="Controls">Controls</Item>
-		<Item Name="Effects">Effects</Item>
-		<Item Name="Optimization">Optimization</Item>
-		<Item Name="Help">Help</Item>
-		<Item Name="UISizeConf">Are you sure you want to keep this UI scale?</Item>
-		<Item Name="ShiftToPlaceMultiple">Hold shift to place multiple objects</Item>
-		<Item Name="ShiftToPlaceHint">Disable this to place multiple objects by default, using right click to cancel</Item>
-		<Item Name="EnvEffects">Environment effects</Item>
-		<Item Name="EnvEffectsHint">Snow, rain, thunder and lightning. Does not affect temperature or ground texture</Item>
-		<Item Name="Duplicate selected furniture">Duplicate selected furniture</Item>
-		<Item Name="Ground floor">Ground floor</Item>
-		<Item Name="FloorPostfix">{0}. floor</Item>
-		<Item Name="AngleSnapDesc2">Angle Snap</Item>
-		<Item Name="DoubleGridSize">Double Grid Size</Item>
-		<Item Name="HalveGridSize">Halve Grid Size</Item>
-		<Item Name="ResetGrid">Reset Grid</Item>
-		<Item Name="Old grid panel">Old grid panel</Item>
-		<Item Name="OldGridPanelHint">Toggle the grid manipulation panel from older versions of Software Inc.</Item>
-		<Item Name="Nothing matches filter">Nothing matches filter</Item>
-		<Item Name="StartTutorialTip">Click to start the {0} tutorial</Item>
+		<Item Name="Snap to grid">对齐网格</Item>
+		<Item Name="EmployeeCourseBookError">The {0:Plural:employees,employee} you selected {0:Plural:are,is} 已经安排了学习</Item>
+		<Item Name="SickNotify">{0:FirstOrCount:employees} {0:Plural:have,has} 请病假</Item>
+		<Item Name="GeneralOptionTab">综合</Item>
+		<Item Name="Controls">控制</Item>
+		<Item Name="Effects">效果</Item>
+		<Item Name="Optimization">最优化</Item>
+		<Item Name="Help">帮助</Item>
+		<Item Name="UISizeConf">您确定要保持这个UI比例吗?</Item>
+		<Item Name="ShiftToPlaceMultiple">按住shift键放置多个对象</Item>
+		<Item Name="ShiftToPlaceHint">在默认情况下禁用此选项以放置多个对象，使用右键单击来取消</Item>
+		<Item Name="EnvEffects">环境影响</Item>
+		<Item Name="EnvEffectsHint">雪，雨，雷和闪电。不影响温度或地面纹理</Item>
+		<Item Name="Duplicate selected furniture">复制所选家具</Item>
+		<Item Name="Ground floor">第一层</Item>
+		<Item Name="FloorPostfix">第 {0}. 层</Item>
+		<Item Name="AngleSnapDesc2">角度捕捉</Item>
+		<Item Name="DoubleGridSize">双网格大小</Item>
+		<Item Name="HalveGridSize">半网格大小</Item>
+		<Item Name="ResetGrid">重置网格</Item>
+		<Item Name="Old grid panel">旧网格面板</Item>
+		<Item Name="OldGridPanelHint">切换旧版本SoftwareInc的网格操作面板。</Item>
+		<Item Name="Nothing matches filter">没有匹配筛选的内容</Item>
+		<Item Name="StartTutorialTip">单击以开始{0}教程</Item>
 	</Alpha10.9>
 	<Alpha10.10>
 		<Item Name="Piece" NamePlural="Pieces">{0} [Piece|Pieces]</Item>
