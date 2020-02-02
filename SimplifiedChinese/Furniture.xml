@@ -1,10 +1,10 @@
 <Furniture>
 	<Furniture Name="Elevator">
-		<Name>Elevator</Name>
-		<Description>Place elevators on top of each other to connect rooms on different floors</Description>
+		<Name>电梯</Name>
+		<Description>将电梯放在彼此的顶部，以连接不同的楼层</Description>
 	</Furniture>
 	<Furniture Name="Stairs">
-		<Name>Stairs</Name>
+		<Name>楼梯</Name>
 		<Description></Description>
 	</Furniture>
 	<Furniture Name="Left Quarter Turn Stairs">
