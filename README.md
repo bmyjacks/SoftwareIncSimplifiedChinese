@@ -1,4 +1,11 @@
 # SoftwareInc 的简体中文翻译
+
+![GitHub repo size](https://img.shields.io/github/repo-size/bmyjacks/SoftwareIncSimplifiedChinese)
+![GitHub issues](https://img.shields.io/github/issues/bmyjacks/SoftwareIncSimplifiedChinese)
+![Steam Views](https://img.shields.io/steam/views/1985088899)
+![Steam Subscriptions](https://img.shields.io/steam/subscriptions/1985088899)
+![GitHub last commit](https://img.shields.io/github/last-commit/bmyjacks/SoftwareIncSimplifiedChinese)
+
 [English version](./README_EN.md)
 
 现在的master分支里的版本为**A10**，需要其他版本的请到branch里搜索。

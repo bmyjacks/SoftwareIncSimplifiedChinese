@@ -1,5 +1,11 @@
 # Simplified Chinese translation of SoftwareInc
 
+![GitHub repo size](https://img.shields.io/github/repo-size/bmyjacks/SoftwareIncSimplifiedChinese)
+![GitHub issues](https://img.shields.io/github/issues/bmyjacks/SoftwareIncSimplifiedChinese)
+![Steam Views](https://img.shields.io/steam/views/1985088899)
+![Steam Subscriptions](https://img.shields.io/steam/subscriptions/1985088899)
+![GitHub last commit](https://img.shields.io/github/last-commit/bmyjacks/SoftwareIncSimplifiedChinese)
+
 [中文版](./README.md)
 
 The current version in the master branch is **A10**. If you need other versions, please search in the branch.
