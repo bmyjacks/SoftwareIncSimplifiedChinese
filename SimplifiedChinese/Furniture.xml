@@ -8,29 +8,29 @@
 		<Description></Description>
 	</Furniture>
 	<Furniture Name="Left Quarter Turn Stairs">
-		<Name>Left Quarter Turn Stairs</Name>
+		<Name>四分之一左转楼梯</Name>
 		<Description></Description>
 	</Furniture>
 	<Furniture Name="Right Quarter Turn Stairs">
-		<Name>Right Quarter Turn Stairs</Name>
+		<Name>四分之一右转楼梯</Name>
 		<Description></Description>
 	</Furniture>
 	<Furniture Name="Left Turn Stairs">
-		<Name>Left Turn Stairs</Name>
+		<Name>左转楼梯</Name>
 		<Description></Description>
 	</Furniture>
 	<Furniture Name="Right Turn Stairs">
-		<Name>Right Turn Stairs</Name>
+		<Name>右转楼梯</Name>
 		<Description></Description>
 	</Furniture>
 	<Furniture Name="Table">
-		<Name>Table</Name>
-		<Description>Put stuff on it and chairs around it</Description>
+		<Name>桌子</Name>
+		<Description>放置美观的东西在上面并放椅子在周围</Description>
 		<Color1>Base</Color1>
 	</Furniture>
 	<Furniture Name="Glass Table">
-		<Name>Glass Table</Name>
-		<Description>Enjoy the view of your feet while you work</Description>
+		<Name>玻璃桌子</Name>
+		<Description>在办公是时候享受你坐上去的感觉</Description>
 		<Color1>Frame</Color1>
 	</Furniture>
 	<Furniture Name="2m End Table">
@@ -44,7 +44,7 @@
 		<Color1>Base</Color1>
 	</Furniture>
 	<Furniture Name="Cheap Chair">
-		<Name>Cheap Chair</Name>
+		<Name>便宜的椅子</Name>
 		<Description>Uncomfortable plastic chair</Description>
 		<Color1>Seat</Color1>
 		<Color2>Support</Color2>
