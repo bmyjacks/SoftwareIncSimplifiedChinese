@@ -8,43 +8,43 @@
 		<Description></Description>
 	</Furniture>
 	<Furniture Name="Left Quarter Turn Stairs">
-		<Name>Left Quarter Turn Stairs</Name>
+		<Name>四分之一左转楼梯</Name>
 		<Description></Description>
 	</Furniture>
 	<Furniture Name="Right Quarter Turn Stairs">
-		<Name>Right Quarter Turn Stairs</Name>
+		<Name>四分之一右转楼梯</Name>
 		<Description></Description>
 	</Furniture>
 	<Furniture Name="Left Turn Stairs">
-		<Name>Left Turn Stairs</Name>
+		<Name>左转楼梯</Name>
 		<Description></Description>
 	</Furniture>
 	<Furniture Name="Right Turn Stairs">
-		<Name>Right Turn Stairs</Name>
+		<Name>右转楼梯</Name>
 		<Description></Description>
 	</Furniture>
 	<Furniture Name="Table">
-		<Name>Table</Name>
-		<Description>Put stuff on it and chairs around it</Description>
-		<Color1>Base</Color1>
+		<Name>桌子</Name>
+		<Description>放置美观的东西在上面并放椅子在周围</Description>
+		<Color1>基础的</Color1>
 	</Furniture>
 	<Furniture Name="Glass Table">
-		<Name>Glass Table</Name>
-		<Description>Enjoy the view of your feet while you work</Description>
+		<Name>玻璃桌子</Name>
+		<Description>在办公的时候享受你坐上去的感觉</Description>
 		<Color1>Frame</Color1>
 	</Furniture>
 	<Furniture Name="2m End Table">
-		<Name>2m End Table</Name>
-		<Description>Approximately round</Description>
-		<Color1>Base</Color1>
+		<Name>2m的桌子</Name>
+		<Description>大约是圆形的</Description>
+		<Color1>基础的</Color1>
 	</Furniture>
 	<Furniture Name="3m End Table">
 		<Name>3m End Table</Name>
 		<Description>Even more round</Description>
-		<Color1>Base</Color1>
+		<Color1>基础的</Color1>
 	</Furniture>
 	<Furniture Name="Cheap Chair">
-		<Name>Cheap Chair</Name>
+		<Name>便宜的椅子</Name>
 		<Description>Uncomfortable plastic chair</Description>
 		<Color1>Seat</Color1>
 		<Color2>Support</Color2>
@@ -76,45 +76,45 @@
 	<Furniture Name="Bench">
 		<Name>Bench</Name>
 		<Description>It's a bench</Description>
-		<Color1>Base</Color1>
+		<Color1>基础的</Color1>
 		<Color2>Support</Color2>
 	</Furniture>
 	<Furniture Name="Small Heater">
 		<Name>Small Heater</Name>
 		<Description>Humble heating unit for your basic office needs</Description>
-		<Color1>Base</Color1>
+		<Color1>基础的</Color1>
 	</Furniture>
 	<Furniture Name="Ceiling Fan">
 		<Name>Ceiling Fan</Name>
 		<Description>Nifty ceiling fan, which not only looks cool, but also cools down the room! May cause noise pollution.</Description>
-		<Color1>Base</Color1>
+		<Color1>基础的</Color1>
 		<Color2>Blades</Color2>
 	</Furniture>
 	<Furniture Name="Radiator">
 		<Name>Radiator</Name>
 		<Description>Runs on expensive district heating, but is a lot more effective than a small heater.</Description>
-		<Color1>Base</Color1>
+		<Color1>基础的</Color1>
 	</Furniture>
 	<Furniture Name="Ventilation">
 		<Name>Ventilation</Name>
 		<Description>Small ventilation unit that takes air directly from the other side of a wall.</Description>
-		<Color1>Base</Color1>
+		<Color1>基础的</Color1>
 		<Color2>Fan</Color2>
 	</Furniture>
 	<Furniture Name="Central Heating">
 		<Name>Central Heating</Name>
 		<Description>Industrial strength central heating unit to heat up entire buildings.</Description>
-		<Color1>Base</Color1>
+		<Color1>基础的</Color1>
 	</Furniture>
 	<Furniture Name="AC Unit">
 		<Name>AC Unit</Name>
 		<Description>Industrial strength air conditioning unit to cool down entire building complexes. Has to be placed above ground.</Description>
-		<Color1>Base</Color1>
+		<Color1>基础的</Color1>
 	</Furniture>
 	<Furniture Name="Industrial ventilation">
 		<Name>Industrial ventilation</Name>
 		<Description>This fan was designed to cool a room down to accommodate servers, i.e. not people</Description>
-		<Color1>Base</Color1>
+		<Color1>基础的</Color1>
 		<Color2>Blades</Color2>
 	</Furniture>
 	<Furniture Name="Old Computer">
@@ -139,7 +139,7 @@
 	<Furniture Name="Modern Computer">
 		<Name>Modern Computer</Name>
 		<Description>Modern computer for all your modern computer needs</Description>
-		<Color1>Base</Color1>
+		<Color1>基础的</Color1>
 		<Color2>Keys</Color2>
 	</Furniture>
 	<Furniture Name="HoloComputer">
@@ -164,7 +164,7 @@
 	<Furniture Name="Desk Lamp">
 		<Name>Desk Lamp</Name>
 		<Description>For localized lighting improvements</Description>
-		<Color1>Base</Color1>
+		<Color1>基础的</Color1>
 		<Color3>Lighting</Color3>
 	</Furniture>
 	<Furniture Name="Floor Lamp">
@@ -182,7 +182,7 @@
 	<Furniture Name="Outdoor Lamp">
 		<Name>Outdoor Lamp</Name>
 		<Description>Cozy lamp for all your avoid-tripping-in-the-dark-outside-at-night needs!</Description>
-		<Color1>Base</Color1>
+		<Color1>基础的</Color1>
 		<Color3>Lighting</Color3>
 	</Furniture>
 	<Furniture Name="Vending Machine">
@@ -196,7 +196,7 @@
 	<Furniture Name="Stove">
 		<Name>Stove</Name>
 		<Description>Cooks will use stoves to heat food. One stove per cook.</Description>
-		<Color1>Base</Color1>
+		<Color1>基础的</Color1>
 		<Color2>Top</Color2>
 	</Furniture>
 	<Furniture Name="Serving Tray">
@@ -211,18 +211,18 @@
 	<Furniture Name="Coffee">
 		<Name>Coffee</Name>
 		<Description>Your standard ground coffee machine</Description>
-		<Color1>Base</Color1>
+		<Color1>基础的</Color1>
 	</Furniture>
 	<Furniture Name="Espresso Machine">
 		<Name>Espresso Machine</Name>
 		<Description>Delivers high quality coffee by being noisy and consuming large amounts of water, electricity and maintenance</Description>
-		<Color1>Base</Color1>
+		<Color1>基础的</Color1>
 		<Color2>Pot</Color2>
 	</Furniture>
 	<Furniture Name="Toilet">
 		<Name>Toilet</Name>
 		<Description>Poop machine</Description>
-		<Color1>Base</Color1>
+		<Color1>基础的</Color1>
 	</Furniture>
 	<Furniture Name="WaterCooler">
 		<Name>WaterCooler</Name>
@@ -243,12 +243,12 @@
 	<Furniture Name="Bookshelf">
 		<Name>Bookshelf</Name>
 		<Description>Complete with books!</Description>
-		<Color1>Base</Color1>
+		<Color1>基础的</Color1>
 	</Furniture>
 	<Furniture Name="Reception desk">
 		<Name>Reception desk</Name>
 		<Description></Description>
-		<Color1>Base</Color1>
+		<Color1>基础的</Color1>
 	</Furniture>
 	<Furniture Name="Floor Plant">
 		<Name>Floor Plant</Name>
@@ -318,19 +318,19 @@
 	<Furniture Name="Phone">
 		<Name>Phone</Name>
 		<Description>Who you gonna call? Support!</Description>
-		<Color1>Base</Color1>
+		<Color1>基础的</Color1>
 		<Color2>Handle</Color2>
 	</Furniture>
 	<Furniture Name="Drawing Tablet">
 		<Name>Drawing Tablet</Name>
 		<Description>So much easier than manually inputting pixel coordinates</Description>
-		<Color1>Base</Color1>
+		<Color1>基础的</Color1>
 		<Color2>Pad</Color2>
 	</Furniture>
 	<Furniture Name="Calculator">
 		<Name>Calculator</Name>
 		<Description>Calculators are a programmer's best friend</Description>
-		<Color1>Base</Color1>
+		<Color1>基础的</Color1>
 		<Color2>Keys</Color2>
 	</Furniture>
 	<Furniture Name="Inbox">
