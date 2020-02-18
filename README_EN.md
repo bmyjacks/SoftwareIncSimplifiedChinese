@@ -8,7 +8,7 @@
 
 [中文版](./README.md)
 
-The current version in the master branch is **A10**. If you need other versions, please search in the branch.
+The current version in the master branch is **A10**. This version is compatible with previous versions(such as A10)
 
 ## About SoftwareInc
 
