@@ -1,41 +1,41 @@
 <Tutorial>
-	<Message id="ALPHA WORK1">Your design has now been promoted to implementation.
+	<Message id="ALPHA WORK1">您的设计现在已升级为实现。
 
-The implementation phase has three stages:
+实施阶段分为三个阶段：
 
-1. "Alpha", in which developers and artists create the product according to the design specifications and requirements.
+1. "Alpha", 开发人员和艺术家根据设计规范和要求创作产品。
 
-2. "Delay", depending on how competent your employees are, unexpected issues may crop up during alpha, which need to be addressed before moving on.
+2. "Delay", 取决于员工的能力，alpha期间可能会出现意外问题，在继续工作之前需要解决这些问题。
 
-3. "Beta", in which bugs are uncovered by your programmers and hopefully fixed before the final release.</Message>
-	<Message id="ALPHA WORK2">Depending on whether your software has any code or art your will see "code" and "art" units increase. These tell you roughly how much work is getting done, the higher the numbers are, the closer the product is to being complete.
+3. "Beta", 你的程序员发现了一些bug，希望在最终版本发布之前修复。</Message>
+	<Message id="ALPHA WORK2">根据您的软件是否包含任何代码或艺术品，您将看到“代码”和“艺术品”单位增加。 这些信息大致告诉您要完成的工作量，数值越高，产品完成越接近。
 		
-These numbers tell nothing of the actual quality of the code and art, though. To get an idea of how good your employees' work is, you need to do a peer review, start by pressing the review button and select Team.</Message>
-	<Message id="ALPHA WORK3">When your product has received some reviews, press the end button to see the results. Note that the review is based on your product as it was when you started the review, so any work done in the mean time will not be counted.</Message>
-	<Message id="ALPHA WORK4">The final score will be higher or lower than the actual quality based on who reviewed it. The team that developed the software will probably say it's better than it actually is.
+这些数字并不能说明代码和艺术的实际质量。 要了解员工的工作状况，您需要进行同行评审，首先要按下“评审”按钮，然后选择“团队”。</Message>
+	<Message id="ALPHA WORK3">您的产品收到一些评论后，请按结束按钮以查看结果。 请注意，审核是基于您开始审核时的产品进行的，因此在此期间所做的任何工作均不会计入。</Message>
+	<Message id="ALPHA WORK4">最终得分将高于或低于实际质量，具体取决于审核者。 开发该软件的团队可能会说它比实际要好。
 
-You can scroll through the review to see how the reviewers scored different aspects of your software. The quality of the art and code can vary through development based on the skill of your employees and does not depend on how much work has been done.</Message>
-	<Message id="ALPHA WORK5">Make sure you do a press release during development as well.
+您可以滚动查看评论以查看评论者如何对软件的不同方面进行评分。 美术和代码的质量可能会根据您的员工的技能而随着开发而变化，而不取决于已完成的工作量。</Message>
+	<Message id="ALPHA WORK5">确保在开发过程中也进行新闻发布。
 
-During development you also have the option to send out a press build, so the press can try your software. Press builds require no work on your part, but make sure you have good ratings in your peer reviews and some followers before you send one out.</Message>
-	<Message id="ALPHA WORK6">Press the Promote button to move on to the delay phase when you are ready and the project will move on to the beta phase automatically.</Message>
-	<Message id="ALPHA WORK7">The beta phase is theoretically endless, but you'll have to release your project at some point, especially if you've already announced a release date.
+在开发过程中，您还可以选择发送新闻报道版本，以便新闻记者可以试用您的软件。 新闻发布不需要您做任何工作，但是在发送之前，请确保您在同行评审和一些关注者中拥有良好的评价。</Message>
+	<Message id="ALPHA WORK6">准备就绪后，按“升级”按钮进入延迟阶段，项目将自动进入beta阶段。</Message>
+	<Message id="ALPHA WORK7">从理论上讲，测试阶段是无止境的，但是您必须在某个时候发布项目，尤其是如果您已经宣布发布日期。
 
-It's a good idea to fix as many bugs as possible, as buggy products will lead to refunds, but don't aim to fix every possible bug in your product. When your product is released you'll be able to fix more bugs, as your customers get in contact with your support team.</Message>
-	<Message id="ALPHA WORK8">Press the release button when you're ready.
+修复尽可能多的错误是个好主意，因为有缺陷的产品会导致退款，但并非旨在修复产品中的所有可能的错误。 产品发布后，随着客户与支持团队联系，您将能够修复更多的错误。</Message>
+	<Message id="ALPHA WORK8">准备好后，按发布按钮。
 		
-When you release your product you'll have to buy or print physical copies of it to sell. Later on, online software distribution will become more popular, but it is very important to have physical copies of your product before and during the 90s.
+发布产品时，您必须购买或打印该产品的实体副本才能出售。 稍后，在线软件分发将变得更加流行，但是在90年代之前和90年代期间拥有产品的物理副本非常重要。
 		
-You can either print physical copies yourself or order some to have immediately for a higher price. The game will remind you of this every time you release a product.</Message>
-	<Message id="BENEFIT1">Start by opening the benefit window</Message>
-	<Message id="BENEFIT2">Employee benefits will passively increase employee satisfaction for all your employees, which can be very helpful if you want to lower their salaries or make sure they don't just quit when they get bored.
+您既可以自己打印实物副本，也可以定购一些，价格更高。 每当您发布产品时，游戏都会提醒您这一点。</Message>
+	<Message id="BENEFIT1">首先打开福利窗口</Message>
+	<Message id="BENEFIT2">员工福利将被动地提高所有员工的员工满意度，如果您想降低他们的薪水或确保他们不感到无聊就辞职，这将非常有帮助。
 
-Some employee benefits can have a huge and immediate financial impact, while others might result in large satisfaction increases without having any immediate consequences.
+一些员工福利可能会立即产生巨大的财务影响，而另一些福利可能会导致满意度的大幅提高而不会产生任何直接后果。
 
-You can safely play with the sliders and see their impact since changes aren't put in effect until you hit Apply.
+您可以放心地使用滑块并查看其影响，因为在您单击“应用”之前更改不会生效。
 
-Press continue to advance the tutorial.</Message>
-	<Message id="BENEFIT3">If you check the checkbox next to a benefit and hit Apply, any employee with custom benefits will have it reset to the company default.
+按继续以继续本教程。</Message>
+	<Message id="BENEFIT3">如果您选中一项福利旁边的复选框并点击“应用”，则任何具有自定义福利的员工都将其重置为公司默认值。
 		
 You can change benefits for employees individually in the employee overview window. Try opening it now, select one or more employees and click "Change benefits".</Message>
 	<Message id="BENEFIT4">To override a company benefit for individual employees, you need to check the checkbox next to the benefit.</Message>
