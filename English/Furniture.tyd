@@ -65,7 +65,7 @@ Furniture
         ]
     Industrialventilation
         [
-        "Industrial ventilation"
+        "Industrial Ventilation"
         "This fan was designed to cool a room down to accommodate servers, i.e. not people"
         "Base"
         "Blades"
@@ -94,7 +94,7 @@ Furniture
         ]
     Cubiclewall
         [
-        "Cubicle wall"
+        "Cubicle Wall"
         "Place these walls intelligently to reduce noise around work spaces. Note that cubicle walls increase employee isolation."
         ]
     Lamp
@@ -137,7 +137,7 @@ Furniture
         "Alerts everyone in the building if a fire starts in the same room"
         ]
     Sprinkler              [ "Sprinkler"; "" ]
-    Securitycamera         [ "Security camera"; "" ]
+    Securitycamera         [ "Security Camera"; "" ]
     MiniFridge             [ "Mini Fridge"; "A place for employees to keep their own food"; "Base" ]
     VendingMachine         [ "Vending Machine"; "Food generator" ]
     Fridge                 [ "Fridge"; "Generates food for cooks to cook" ]
@@ -168,7 +168,7 @@ Furniture
         ]
     Toilet                 [ "Toilet"; "Poop machine"; "Base" ]
     Sink                   [ "Sink"; ""; ""; "Frame" ]
-    WaterCooler            [ "WaterCooler"; "A place for employees to socialize"; "Shade"; "Support" ]
+    WaterCooler            [ "Water Cooler"; "A place for employees to socialize"; "Shade"; "Support" ]
     Painting               [ "Painting"; "A corny painting to liven up the office"; "Frame" ]
     TV                     [ "TV"; ""; "Frame" ]
     Bookshelf              [ "Bookshelf"; "Complete with books!"; "Base" ]
@@ -182,8 +182,8 @@ Furniture
         "Takes up a lot of space, but employees agree that it makes up for it by looking nice"
         "Pot"
         ]
-    Smalltree              [ "Small tree"; ""; "Pot" ]
-    Smallpinetree          [ "Small pine tree"; ""; "Pot" ]
+    Smalltree              [ "Small Tree"; ""; "Pot" ]
+    Smallpinetree          [ "Small Pine Tree"; ""; "Pot" ]
     Clock                  [ "Clock"; "Time machine!(Not an actual time machine)"; "Frame" ]
     SmallServer            [ "Small Server"; "A normal computer, but with more internet"; "Casing" ]
     MediumServer           [ "Medium Server"; "Like a small server, but more medium"; "Casing" ]

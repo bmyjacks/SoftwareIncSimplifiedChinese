@@ -394,6 +394,31 @@ The education level sets the maximum amount of stars a leader will send an emplo
     HR6                     "The last text fields allow your leader to automatically hire enough employees, such that the team always has the specified amount in the specified roles. The leader will be in charge of the application process.
 
 You can hover over some of the options to get further details. Close the window when you are done to end the tutorial."
+    INVESTMENTS1            "Start by opening the insurance window"
+    INVESTMENTS2            "You can make money off your money in two ways: By investing in stocks or bonds.
+
+Let's start by going over bonds investments. Click {H:Continue} when you are ready."
+    INVESTMENTS3            "Investing in bonds means loaning out your money and earning money off the yearly {SavingsInterest} interest. It is an easy, risk-free way to make a small steady income, with the downside that you can't be withdraw the money your invest for a while without losing the interest.
+
+You can deposit and withdraw money by using this slider."
+    INVESTMENTS4            "The amount of time that has to pass before you can withdraw money depends on how much money you have deposited within the same financial year. You can see locked deposits in this panel.
+
+When you decide to withdraw money, the bank will start by trying to withdraw any money on your savings account that won't incur an interest fee.
+
+Please note that interest is not deposited directly into your bank account. You have to withdraw it using this window.
+
+Press the stock button to continue"
+    INVESTMENTS5            "Stocks are a much more risky way of investing your money, but it can also earn you a lot more than bonds investments.
+
+You'll need to keep track of the stock market every month to make the most off your investments, so you can't just deposit and forget, in the same way you can with bonds investments.
+
+To invest in a stock, just type in the amount you want to deposit, pick a stock and click {H:Invest}.
+
+You can see and withdraw your current investments in this panel.
+
+{H:Remember to buy high and sell low!}
+
+... Yes, that sounds right."
     LEASING1                "Start by entering {H:Build mode} by clicking the Build-button."
     LEASING2                "The game is always paused in build mode.
 
@@ -503,16 +528,6 @@ Try clicking one of the specializations in the left panel."
 At the bottom you can see a button to start researching this specialization, which requires designers with a level 3 specialization of the type you want to research. 
 
 Researching new tech before anyone else will allow you to apply for a patent using {H:Service} employees with the level 3 {H:Law} specialization. If you own the patent to a tech level, all companies using it will have to pay a royalty fee off their sales."
-    SAVINGSACCOUNT1         "Start by opening the insurance window"
-    SAVINGSACCOUNT2         "You can deposit and withdraw money by using this slider.
-
-Money on your insurance account earns you {SavingsInterest} interest per year, but if you withdraw the money within a certain timeframe all interest earned will be deducted."
-    SAVINGSACCOUNT3         "The amount of time that has to pass before you can withdraw money depends on how much money you have deposited within the same financial year. You can see locked deposits in this panel.
-
-When you decide to withdraw money, the bank will start by trying to withdraw any money on your savings account that won't incur an interest fee."
-    SAVINGSACCOUNT4         "Employees retire, or might die or get sick. When this happens they might receive money depending on their benefits agreement. You can keep up with what payments have been made in this panel.
-		
-This is really all there is to your savings account. Close the window to end the tutorial."
     SERVER1                 "You can connect or disconnect servers in wire mode by clicking on a server and then on another server. You can also select all the servers you want to connect using {KeyBind:MultipleSelect}, {KeyBind:SweepSelect} or dragging a rectangle with {KeyBind:NormalSelection} and then press {KeyBind:ContextMenu} and press {H:Connect servers}.
 
 The load you put on a group of connected servers will be distributed among every server in the group. If one server in a group breaks down, the entire group stops working.
@@ -544,21 +559,23 @@ You can change their working hours using the buttons in the list."
     STAFF4                  "With the buttons under \"Temporary:\" you can hire staff temporarily. They will stay until their job is done or until you dismiss them. Hovering over the buttons will show you their terms.
 
 Press \"End\" to end the tutorial."
-    STOCKS1                 "In the upper right corner of the company window, you will see a list of stocks.
+    STOCKS1                 "Start by opening your company detail window to view your stocks."
+    STOCKS2                 "In the upper right corner of the company window, there's panel that allows you to sell shares in your company. Your company's value depends on how well your company is doing selling services and products, which determines how much of your company you can sell.
 
-The first stock in the list is the company's own share, which you can buy if you have bought all other stocks in the list.
+The first time you sell shares is called in {H:Initial Public Offering}, and all your money and the money you are raising will be separated into approximately {Currency:100} shares, which will be distributed among yourself and your investors.
 
-You have two options when you buy a company's main share, you can buy them out or make a subsidiary of your own company. You can only have as many subsidiaries as you have business reputation stars.
+Below this panel you will see a list of stocks you can buy and sell, depending on whether the company is {H:Publicly listed}, i.e. whether they are selling any shares at all.
 
-Buying out a company will give you their IP and their patents. Making them a subsidiary will allow you to control them, deposit and withdraw money from them and close them at any time.
+Try opening another company's detail window, to see how many stocks they have. You can check the {H:Listed} column in the company window, to see how many percent of a company is up for sale."
+    STOCKS3                 "Owning share in a company will earn you {H:Dividends}, which means you will get a percentage of the company's profits each month, depending on how much of the company you own. Note that you also have to pay dividends to your shareholders.
 
-When a company goes bankrupt, all its assets will go to the majority shareholder."
-    STOCKS2                 "When you own stock in another company, that company will pay dividends to you each month, which is the percentage you own in the company of their surplus for that month, divided by 24. You will also have to pay dividends to companies that own stock in your company, but it is an easy way to loan money.
-		
-Alternatively, you can buy the stock when it is cheap and sell it high, by trying to predict how the company will do, based on its history.
+If you own more than {H:10%} of a company, you get to use their research before anyone else and if you own more than {H:25%} you don't have to pay royalties when using this company's tools, operating systems, frameworks or patents. Again, this also works the other way.
 
-You can see which stocks a company owns in the bottom left panel."
-    STOCKS3                 "In the bottom middle of the window you can see the company's patents. If you develop products with any of the features listed, you will have to pay royalties to this company out of its profit. If you own stocks in the company or the company is a subsidiary, royalties do not apply."
+When you own more than {H:50%} of a company, you have a chance to buy them out. Buying a company out allows you to take over all their assets or make them a subsidiary. Subsidiaries will continue to operate as normal, but you can control their releases and ask them to do certain tasks for you.
+
+If another company owns more than 50% of your company, they might start a {H:Hostile takeover}, which gives you 6 months to get them below 25% before your company is dissolved.
+
+When a company goes bankrupt, all its assets will be distributed among its majority shareholders."
     SUBSIDIARY1             "To begin the tutorial, make sure you have a subsidiary and have their company detail window open."
     SUBSIDIARY2             "You control subsidiaries mainly in the company detail window.
 		
