@@ -23,11 +23,11 @@
 
 打开文件夹后，游戏目录的结构类似于以下这样
 
-```
+```bash
 Furniture/
 Localization/
     English/
-    ## 将本repo的SimplifiedChinese文件夹放在这里 ##
+    ## 新建文件夹SimplifiedChinese，将本repo的relases中下载的压缩文件中的后缀是xml的文件放入文件夹中
 Materials/
 ```
 
