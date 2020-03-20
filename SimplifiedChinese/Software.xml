@@ -3,7 +3,7 @@
 	<Software Name="Operating System">
 		<Name>操作系统</Name>
 		<Description>操作系统是Software inc.中最大的软件。
-大多数的软件都需要一个操作系统来运行。当人们停止购买一系列操作系统时，他们也将停止为这些操作系统购买软件</Description>
+			大多数的软件都需要一个操作系统来运行。当人们停止购买一系列操作系统时，他们也将停止为这些操作系统购买软件</Description>
 		<Features>
 			<Feature Name="Terminal">
 				<Name>终端</Name>
@@ -355,249 +355,250 @@
 	</Software>
 	<Software Name="Office Software">
 		<Software Name="Office Software">
-		<Name>办公软件</Name>
-		<Description></Description>
-		<Features>
-			<Feature Name="Word processor">
-				<Name>文字处理</Name>
-			</Feature>
-			<Feature Name="WYSIWYG">
-				<Name>所见即所得</Name>
-				<Description>你看到啥你就最后就会得到啥！</Description>
-			</Feature>
-			<Feature Name="Spellcheck">
-				<Name>拼写检查</Name>
-				<Description>现在直到以后你都可以忽略拼写错误，也许吧！</Description>
-			</Feature>
-			<Feature Name="Auto layout">
-				<Name>自动布局</Name>
-				<Description>即使花费30分钟也要尝试找到图片该在的位置</Description>
-			</Feature>
-			<Feature Name="Spreadsheet">
-				<Name>电子表格</Name>
-			</Feature>
-			<Feature Name="Custom functions">
-				<Name>自定义功能</Name>
-				<Description>电子表格总是可以变得更复杂</Description>
-			</Feature>
-			<Feature Name="Charts">
-				<Name>图表</Name>
-			</Feature>
-			<Feature Name="Presentation">
-				<Name>演示</Name>
-			</Feature>
-			<Feature Name="Vector graphics">
-				<Name>矢量图</Name>
-				<Description>基本的线条，方框和圆圈</Description>
-			</Feature>
-			<Feature Name="Animations">
-				<Name>动画</Name>
-				<Description>什么方式可以让你的演示文稿看起来更酷炫</Description>
-			</Feature>
-			<Feature Name="Sound effects">
-				<Name>声音特效</Name>
-				<Description>这是我们明年的财政收益预估，吧啦吧啦吧啦....</Description>
-			</Feature>
-			<Feature Name="Templates">
-				<Name>模版</Name>
-			</Feature>
-			<Feature Name="Clipart">
-				<Name>剪贴画（美工图案）</Name>
-			</Feature>
-			<Feature Name="Scripting">
-				<Name>脚本</Name>
-				<Description>因为你永远不可能满足每个人！</Description>
-			</Feature>
-			<Feature Name="Online backup">
-				<Name>在线备份</Name>
-			</Feature>
-		</Features>
-		<Categories></Categories>
-	</Software>
-	<Software Name="CMS">
-		<Name>内容管理系统（CMS）</Name>
-		<Description>用于管理内容非常具体的任务（不同企业有不同定义）</Description>
-		<Features>
-			<Feature Name="File management">
-				<Name>文件管理</Name>
-			</Feature>
-			<Feature Name="Visualization tools">
-				<Name>可视化工具</Name>
-			</Feature>
-			<Feature Name="WYSIWYG">
-				<Name>所见即所得（WYSIWYG）</Name>
-				<Description>你看到的就是你将得到的</Description>
-			</Feature>
-			<Feature Name="Community">
-				<Name>社区</Name>
-				<Description>互联网需要更多评论部分</Description>
-			</Feature>
-			<Feature Name="Widgets">
-				<Name>小工具</Name>
-				<Description>也被称为社交媒体按钮</Description>
-			</Feature>
-			<Feature Name="Themes">
-				<Name>主题</Name>
-			</Feature>
-			<Feature Name="GUI">
-				<Name>图形化界面（GUI）</Name>
-				<Description>图形化用户的界面</Description>
-			</Feature>
-			<Feature Name="Bank integration">
-				<Name>银行整合</Name>
-			</Feature>
-			<Feature Name="Document generation">
-				<Name>文档生成</Name>
-				<Description>每个人的费用清单</Description>
-			</Feature>
-			<Feature Name="Statistics">
-				<Name>统计</Name>
-			</Feature>
-			<Feature Name="User hierarchy">
-				<Name>用户层次结构</Name>
-			</Feature>
-			<Feature Name="Work delegation">
-				<Name>工作代表团</Name>
-				<Description>或者绕着办公室对员工们大吼出他们的任务</Description>
-			</Feature>
-			<Feature Name="Synchronization">
-				<Name>同步</Name>
-				<Description>每过一会儿向软盘发送一次同步内容</Description>
-			</Feature>
-		</Features>
-		<Categories>
-			<Category Name="Web Publishing">
-				<Name>网页发布</Name>
-				<Description>避免强迫博主去做后台网页编辑</Description>
-			</Category>
-			<Category Name="Financial">
-				<Name>金融</Name>
-				<Description>帮助企业跟踪他们的财政状况</Description>
-			</Category>
-			<Category Name="Workflow">
-				<Name>工作流程</Name>
-				<Description>虚拟白板</Description>
-			</Category>
-		</Categories>
-	</Software>
-	<Software Name="Antivirus">
-		<Name>杀毒软件</Name>
-		<Description>保护电脑不受病毒制造者的破坏，不让他们从中非法获益！</Description>
-		<Features>
-			<Feature Name="File scan">
-				<Name>文件扫描</Name>
-			</Feature>
-			<Feature Name="User interface">
-				<Name>用户界面</Name>
-				<Description>使用户方便管理自己的病毒处理</Description>
-			</Feature>
-			<Feature Name="Firewall">
-				<Name>防火墙</Name>
-			</Feature>
-			<Feature Name="Background scan">
-				<Name>后台扫描</Name>
-				<Description>在后台扫描病毒，并随机生成文件锁</Description>
-			</Feature>
-			<Feature Name="Mail scan">
-				<Name>邮件扫描</Name>
-				<Description>这里总有更大的空间</Description>
-			</Feature>
-			<Feature Name="Virus database">
-				<Name>病毒数据库</Name>
-				<Description>自动将用户的病毒定义保持最新</Description>
-			</Feature>
-		</Features>
-		<Categories></Categories>
-	</Software>
-	<Software Name="Logistics Application">
-		<Name>逻辑软件</Name>
-		<Description></Description>
-		<Features>
-			<Feature Name="Commandline">
-				<Name>命令行</Name>
-			</Feature>
-			<Feature Name="GUI">
-				<Name>图形化界面（GUI）</Name>
-			</Feature>
-			<Feature Name="Database">
-				<Name>数据库</Name>
-			</Feature>
-			<Feature Name="Third-party integration">
-				<Name>第三方接入</Name>
-			</Feature>
-		</Features>
-		<Categories></Categories>
-	</Software>
-	<Software Name="Website">
-		<Name>网站</Name>
-		<Description></Description>
-		<Features>
-			<Feature Name="Static pages">
-				<Name>静态页面</Name>
-			</Feature>
-			<Feature Name="Image gallery">
-				<Name>图库</Name>
-			</Feature>
-			<Feature Name="Dynamic pages">
-				<Name>动态页面</Name>
-			</Feature>
-			<Feature Name="Store">
-				<Name>商城</Name>
-			</Feature>
-			<Feature Name="Database">
-				<Name>数据库</Name>
-			</Feature>
-		</Features>
-		<Categories></Categories>
-	</Software>
-	<Software Name="Game Assets">
-		<Name>游戏素材</Name>
-		<Description></Description>
-		<Features>
-			<Feature Name="2D art">
-				<Name>2D艺术</Name>
-			</Feature>
-			<Feature Name="User interface graphics">
-				<Name>用户界面图像</Name>
-			</Feature>
-			<Feature Name="Sound effects">
-				<Name>音效</Name>
-			</Feature>
-			<Feature Name="Music">
-				<Name>音乐</Name>
-			</Feature>
-			<Feature Name="Written Dialogue">
-				<Name>书面对话</Name>
-			</Feature>
-			<Feature Name="3D models">
-				<Name>3D模型</Name>
-			</Feature>
-		</Features>
-		<Categories></Categories>
-	</Software>
-	<Software Name="Embedded System">
-		<Name>镶入式系统</Name>
-		<Description></Description>
-		<Features>
-			<Feature Name="Clock">
-				<Name>时钟</Name>
-			</Feature>
-			<Feature Name="Thermostat">
-				<Name>温控器</Name>
-			</Feature>
-			<Feature Name="Motor">
-				<Name>小马达</Name>
-			</Feature>
-			<Feature Name="User interface">
-				<Name>用户界面</Name>
-			</Feature>
-			<Feature Name="GPS">
-				<Name>GPS</Name>
-			</Feature>
-			<Feature Name="Networking">
-				<Name>联网</Name>
-			</Feature>
-		</Features>
-		<Categories></Categories>
+			<Name>办公软件</Name>
+			<Description></Description>
+			<Features>
+				<Feature Name="Word processor">
+					<Name>文字处理</Name>
+				</Feature>
+				<Feature Name="WYSIWYG">
+					<Name>所见即所得</Name>
+					<Description>你看到啥你就最后就会得到啥！</Description>
+				</Feature>
+				<Feature Name="Spellcheck">
+					<Name>拼写检查</Name>
+					<Description>现在直到以后你都可以忽略拼写错误，也许吧！</Description>
+				</Feature>
+				<Feature Name="Auto layout">
+					<Name>自动布局</Name>
+					<Description>即使花费30分钟也要尝试找到图片该在的位置</Description>
+				</Feature>
+				<Feature Name="Spreadsheet">
+					<Name>电子表格</Name>
+				</Feature>
+				<Feature Name="Custom functions">
+					<Name>自定义功能</Name>
+					<Description>电子表格总是可以变得更复杂</Description>
+				</Feature>
+				<Feature Name="Charts">
+					<Name>图表</Name>
+				</Feature>
+				<Feature Name="Presentation">
+					<Name>演示</Name>
+				</Feature>
+				<Feature Name="Vector graphics">
+					<Name>矢量图</Name>
+					<Description>基本的线条，方框和圆圈</Description>
+				</Feature>
+				<Feature Name="Animations">
+					<Name>动画</Name>
+					<Description>什么方式可以让你的演示文稿看起来更酷炫</Description>
+				</Feature>
+				<Feature Name="Sound effects">
+					<Name>声音特效</Name>
+					<Description>这是我们明年的财政收益预估，吧啦吧啦吧啦....</Description>
+				</Feature>
+				<Feature Name="Templates">
+					<Name>模版</Name>
+				</Feature>
+				<Feature Name="Clipart">
+					<Name>剪贴画（美工图案）</Name>
+				</Feature>
+				<Feature Name="Scripting">
+					<Name>脚本</Name>
+					<Description>因为你永远不可能满足每个人！</Description>
+				</Feature>
+				<Feature Name="Online backup">
+					<Name>在线备份</Name>
+				</Feature>
+			</Features>
+			<Categories></Categories>
+		</Software>
+		<Software Name="CMS">
+			<Name>内容管理系统（CMS）</Name>
+			<Description>用于管理内容非常具体的任务（不同企业有不同定义）</Description>
+			<Features>
+				<Feature Name="File management">
+					<Name>文件管理</Name>
+				</Feature>
+				<Feature Name="Visualization tools">
+					<Name>可视化工具</Name>
+				</Feature>
+				<Feature Name="WYSIWYG">
+					<Name>所见即所得（WYSIWYG）</Name>
+					<Description>你看到的就是你将得到的</Description>
+				</Feature>
+				<Feature Name="Community">
+					<Name>社区</Name>
+					<Description>互联网需要更多评论部分</Description>
+				</Feature>
+				<Feature Name="Widgets">
+					<Name>小工具</Name>
+					<Description>也被称为社交媒体按钮</Description>
+				</Feature>
+				<Feature Name="Themes">
+					<Name>主题</Name>
+				</Feature>
+				<Feature Name="GUI">
+					<Name>图形化界面（GUI）</Name>
+					<Description>图形化用户的界面</Description>
+				</Feature>
+				<Feature Name="Bank integration">
+					<Name>银行整合</Name>
+				</Feature>
+				<Feature Name="Document generation">
+					<Name>文档生成</Name>
+					<Description>每个人的费用清单</Description>
+				</Feature>
+				<Feature Name="Statistics">
+					<Name>统计</Name>
+				</Feature>
+				<Feature Name="User hierarchy">
+					<Name>用户层次结构</Name>
+				</Feature>
+				<Feature Name="Work delegation">
+					<Name>工作代表团</Name>
+					<Description>或者绕着办公室对员工们大吼出他们的任务</Description>
+				</Feature>
+				<Feature Name="Synchronization">
+					<Name>同步</Name>
+					<Description>每过一会儿向软盘发送一次同步内容</Description>
+				</Feature>
+			</Features>
+			<Categories>
+				<Category Name="Web Publishing">
+					<Name>网页发布</Name>
+					<Description>避免强迫博主去做后台网页编辑</Description>
+				</Category>
+				<Category Name="Financial">
+					<Name>金融</Name>
+					<Description>帮助企业跟踪他们的财政状况</Description>
+				</Category>
+				<Category Name="Workflow">
+					<Name>工作流程</Name>
+					<Description>虚拟白板</Description>
+				</Category>
+			</Categories>
+		</Software>
+		<Software Name="Antivirus">
+			<Name>杀毒软件</Name>
+			<Description>保护电脑不受病毒制造者的破坏，不让他们从中非法获益！</Description>
+			<Features>
+				<Feature Name="File scan">
+					<Name>文件扫描</Name>
+				</Feature>
+				<Feature Name="User interface">
+					<Name>用户界面</Name>
+					<Description>使用户方便管理自己的病毒处理</Description>
+				</Feature>
+				<Feature Name="Firewall">
+					<Name>防火墙</Name>
+				</Feature>
+				<Feature Name="Background scan">
+					<Name>后台扫描</Name>
+					<Description>在后台扫描病毒，并随机生成文件锁</Description>
+				</Feature>
+				<Feature Name="Mail scan">
+					<Name>邮件扫描</Name>
+					<Description>这里总有更大的空间</Description>
+				</Feature>
+				<Feature Name="Virus database">
+					<Name>病毒数据库</Name>
+					<Description>自动将用户的病毒定义保持最新</Description>
+				</Feature>
+			</Features>
+			<Categories></Categories>
+		</Software>
+		<Software Name="Logistics Application">
+			<Name>逻辑软件</Name>
+			<Description></Description>
+			<Features>
+				<Feature Name="Commandline">
+					<Name>命令行</Name>
+				</Feature>
+				<Feature Name="GUI">
+					<Name>图形化界面（GUI）</Name>
+				</Feature>
+				<Feature Name="Database">
+					<Name>数据库</Name>
+				</Feature>
+				<Feature Name="Third-party integration">
+					<Name>第三方接入</Name>
+				</Feature>
+			</Features>
+			<Categories></Categories>
+		</Software>
+		<Software Name="Website">
+			<Name>网站</Name>
+			<Description></Description>
+			<Features>
+				<Feature Name="Static pages">
+					<Name>静态页面</Name>
+				</Feature>
+				<Feature Name="Image gallery">
+					<Name>图库</Name>
+				</Feature>
+				<Feature Name="Dynamic pages">
+					<Name>动态页面</Name>
+				</Feature>
+				<Feature Name="Store">
+					<Name>商城</Name>
+				</Feature>
+				<Feature Name="Database">
+					<Name>数据库</Name>
+				</Feature>
+			</Features>
+			<Categories></Categories>
+		</Software>
+		<Software Name="Game Assets">
+			<Name>游戏素材</Name>
+			<Description></Description>
+			<Features>
+				<Feature Name="2D art">
+					<Name>2D艺术</Name>
+				</Feature>
+				<Feature Name="User interface graphics">
+					<Name>用户界面图像</Name>
+				</Feature>
+				<Feature Name="Sound effects">
+					<Name>音效</Name>
+				</Feature>
+				<Feature Name="Music">
+					<Name>音乐</Name>
+				</Feature>
+				<Feature Name="Written Dialogue">
+					<Name>书面对话</Name>
+				</Feature>
+				<Feature Name="3D models">
+					<Name>3D模型</Name>
+				</Feature>
+			</Features>
+			<Categories></Categories>
+		</Software>
+		<Software Name="Embedded System">
+			<Name>镶入式系统</Name>
+			<Description></Description>
+			<Features>
+				<Feature Name="Clock">
+					<Name>时钟</Name>
+				</Feature>
+				<Feature Name="Thermostat">
+					<Name>温控器</Name>
+				</Feature>
+				<Feature Name="Motor">
+					<Name>小马达</Name>
+				</Feature>
+				<Feature Name="User interface">
+					<Name>用户界面</Name>
+				</Feature>
+				<Feature Name="GPS">
+					<Name>GPS</Name>
+				</Feature>
+				<Feature Name="Networking">
+					<Name>联网</Name>
+				</Feature>
+			</Features>
+			<Categories></Categories>
+		</Software>
 	</Software>
 </Software>
