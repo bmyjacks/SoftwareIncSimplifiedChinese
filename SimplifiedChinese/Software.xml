@@ -1,600 +1,601 @@
 <Software>
-	<CategoryDefault>Default</CategoryDefault>
+	<CategoryDefault>默认</CategoryDefault>
 	<Software Name="Operating System">
-		<Name>Operating System</Name>
-		<Description>The Operating System is the largest piece of software in Software Inc.
-Most software needs an Operating System to run on. When people stop buying a line of Operating Systems, they will also stop buying software for them.</Description>
+		<Name>操作系统</Name>
+		<Description>操作系统是Software inc.中最大的软件。
+大多数的软件都需要一个操作系统来运行。当人们停止购买一系列操作系统时，他们也将停止为这些操作系统购买软件</Description>
 		<Features>
 			<Feature Name="Terminal">
-				<Name>Terminal</Name>
-				<Description>The terminal is the classic text-based interface between the Operating System and the user.</Description>
+				<Name>终端</Name>
+				<Description>终端是用户与操作系统基于文本界面进行交互的一种传统方式</Description>
 			</Feature>
 			<Feature Name="GUI">
-				<Name>GUI</Name>
-				<Description>The Graphical User Interface allow users to actually visualize what they are doing. No longer will they be bound to inputting one line at a time.</Description>
+				<Name>图形化界面（GUI）</Name>
+				<Description>允许用户真正的进行可视化操作. 不必再为了一些简单行为而输入一长条命令了</Description>
 			</Feature>
 			<Feature Name="3D rendering">
-				<Name>3D rendering</Name>
+				<Name>3D渲染</Name>
 			</Feature>
 			<Feature Name="Input system">
-				<Name>Input system</Name>
-				<Description>Allow the user to interact with the operating system</Description>
+				<Name>输入系统</Name>
+				<Description>允许用户与操作系统进行交互</Description>
 			</Feature>
 			<Feature Name="Plug'n'Play">
-				<Name>Plug'n'Play</Name>
-				<Description>Allow the user to interact with the operating system in any number of ways</Description>
+				<Name>即插即用</Name>
+				<Description>允许用户与操作系统以任何方式交互</Description>
 			</Feature>
 			<Feature Name="Touch">
-				<Name>Touch</Name>
-				<Description>You can never have enough greasy finger prints on a surface</Description>
+				<Name>触控</Name>
+				<Description>你的屏幕会永远有足够的指纹痕迹</Description>
 			</Feature>
 			<Feature Name="Multithreading">
-				<Name>Multithreading</Name>
-				<Description>Multithreading allows the Operating System to run multiple threads at the same time by continually switching between them intelligently, speeding up applications and confusing developers to no end.</Description>
+				<Name>多线程</Name>
+				<Description>允许操作系统同时运行多个线程，并不断的智能切换它们，来提高应用程序速度，使开发人员困惑（我也不懂为什么会是使开发人员困惑）</Description>
 			</Feature>
 			<Feature Name="Multitasking">
-				<Name>Multitasking</Name>
-				<Description>Let your users pretend they can multitask by having several applications open at any one time.</Description>
+				<Name>多任务处理</Name>
+				<Description>让你的用户假装可以随时打开多个应用程序来进行多任务处理</Description>
 			</Feature>
 			<Feature Name="Networking">
-				<Name>Networking</Name>
-				<Description>How will anonymous people troll each other all over the world without this handy feature?</Description>
+				<Name>联网</Name>
+				<Description>你能想象那些键盘侠失去这个功能时的样子吗？</Description>
 			</Feature>
 			<Feature Name="Auto-update">
-				<Name>Auto-update</Name>
-				<Description>Keep bugs and malware out, while annoying users with broken drivers and sudden restarts.</Description>
+				<Name>自动更新</Name>
+				<Description>防止漏洞和恶意软件的出现，当烦人的用户使用坏掉的驱动程序或意外重启时。</Description>
 			</Feature>
 			<Feature Name="64-bit">
 				<Name>64-bit</Name>
-				<Description>Doubles the size of bits per register, allowing for bigger numbers, more memory, larger files, the answer to life, etc.</Description>
+				<Description>将每个寄存器的位数（bits）增大一倍，允许电脑处理更大的数字，更多的内存，更大的文件或回答人生问题等诸如此类的东西</Description>
 			</Feature>
 			<Feature Name="PC speaker">
-				<Name>PC speaker</Name>
-				<Description>For all your beeping needs</Description>
+				<Name>电脑扬声器</Name>
+				<Description>满足你想让电脑发出“哔哔哔”声的需求</Description>
 			</Feature>
 			<Feature Name="8-bit audio">
-				<Name>8-bit audio</Name>
+				<Name>8-bit 音频</Name>
 			</Feature>
 			<Feature Name="HD audio">
-				<Name>HD audio</Name>
-				<Description>Like 8-bit audio, but with more bit</Description>
+				<Name>HD 音频</Name>
+				<Description>类似8-bit音频,但它拥有更多的bit</Description>
 			</Feature>
 		</Features>
 		<Categories>
 			<Category Name="Computer">
-				<Name>Computer</Name>
-				<Description>For the table</Description>
+				<Name>电脑</Name>
+				<Description>针对桌面设备</Description>
 			</Category>
 			<Category Name="Console">
-				<Name>Console</Name>
-				<Description>For the TV</Description>
+				<Name>控制台</Name>
+				<Description>针对电视设备</Description>
 			</Category>
 			<Category Name="Phone">
-				<Name>Phone</Name>
-				<Description>For the pocket</Description>
+				<Name>手机</Name>
+				<Description>针对移动设备</Description>
 			</Category>
 		</Categories>
 	</Software>
 	<Software Name="2D Editor">
-		<Name>2D Editor</Name>
-		<Description>Program that allows you to handle 2 dimensional arrays of color information</Description>
+		<Name>2D 编辑器</Name>
+		<Description>程序员允许你使用它处理二维颜色信息</Description>
 		<Features>
 			<Feature Name="Image rendering">
-				<Name>Image rendering</Name>
-				<Description>Actually display an image on the screen</Description>
+				<Name>图像渲染</Name>
+				<Description>让图像实际的显示在屏幕上</Description>
 			</Feature>
 			<Feature Name="Pixel manipulation">
-				<Name>Pixel manipulation</Name>
+				<Name>像素操控</Name>
 			</Feature>
 			<Feature Name="Advanced brushes">
-				<Name>Advanced brushes</Name>
+				<Name>高级笔刷</Name>
 			</Feature>
 			<Feature Name="Image effects">
-				<Name>Image effects</Name>
-				<Description>Needs more swirl</Description>
+				<Name>图像特效</Name>
+				<Description>需要更多的旋转（原文：Needs more swirl）</Description>
 			</Feature>
 			<Feature Name="Cinematic filter">
-				<Name>Cinematic filter</Name>
-				<Description>Instant professionalism</Description>
+				<Name>电影过滤器</Name>
+				<Description>即时专业</Description>
 			</Feature>
 			<Feature Name="Image compression">
-				<Name>Image compression</Name>
+				<Name>图像压缩</Name>
 			</Feature>
 			<Feature Name="Video editing">
-				<Name>Video editing</Name>
+				<Name>视频编辑</Name>
 			</Feature>
 			<Feature Name="Video codec">
-				<Name>Video codec</Name>
+				<Name>视频解码</Name>
 			</Feature>
 			<Feature Name="Stock library">
-				<Name>Stock library</Name>
+				<Name>股票查看</Name>
 			</Feature>
 		</Features>
 		<Categories></Categories>
 	</Software>
 	<Software Name="3D Editor">
-		<Name>3D Editor</Name>
-		<Description>Points in space, basically</Description>
+		<Name>3D 编辑器</Name>
+		<Description>基础的移动空间像素工具</Description>
 		<Features>
 			<Feature Name="Vertex editing">
-				<Name>Vertex editing</Name>
-				<Description>Move points in space around on the screen</Description>
+				<Name>顶点编辑</Name>
+				<Description>在屏幕显示的空间上移动顶点</Description>
 			</Feature>
 			<Feature Name="Rendering">
-				<Name>Rendering</Name>
-				<Description>Process the points into a picture</Description>
+				<Name>渲染</Name>
+				<Description>将像素点处理成图片</Description>
 			</Feature>
 			<Feature Name="Animation">
-				<Name>Animation</Name>
-				<Description>Make the points move themselves</Description>
+				<Name>动画</Name>
+				<Description>让像素点自己动</Description>
 			</Feature>
 			<Feature Name="Sculpting">
-				<Name>Sculpting</Name>
-				<Description>Pretend the points are clay</Description>
+				<Name>雕刻</Name>
+				<Description>假装像素点是粘土</Description>
 			</Feature>
 			<Feature Name="Voxel sculpting">
-				<Name>Voxel sculpting</Name>
-				<Description>Everything is a point</Description>
+				<Name>三维雕刻</Name>
+				<Description>一切都是像素点</Description>
 			</Feature>
 			<Feature Name="Physics">
-				<Name>Physics</Name>
-				<Description>Make the points interact</Description>
+				<Name>物理</Name>
+				<Description>让像素点相互作用</Description>
 			</Feature>
 			<Feature Name="Realistic hair">
-				<Name>Realistic hair</Name>
-				<Description>Make lines between the points</Description>
+				<Name>逼真发毛</Name>
+				<Description>在像素点之间画线</Description>
 			</Feature>
 			<Feature Name="Particles">
-				<Name>Particles</Name>
-				<Description>Spray points all over the place</Description>
+				<Name>粒子</Name>
+				<Description>粒子喷雾</Description>
 			</Feature>
 			<Feature Name="Liquid simulation">
-				<Name>Liquid simulation</Name>
-				<Description>Spill points all over the place</Description>
+				<Name>液体模拟</Name>
+				<Description>液体喷洒模拟</Description>
 			</Feature>
 			<Feature Name="PBR">
-				<Name>PBR</Name>
-				<Description>Physically Based Rendering simulates photons reacting with the points</Description>
+				<Name>基于物理的渲染（PBR）</Name>
+				<Description>模拟光子与像素点的反应</Description>
 			</Feature>
 			<Feature Name="Distributed rendering">
-				<Name>Distributed rendering</Name>
-				<Description>Process the points into a picture on many computers at once</Description>
+				<Name>分布式渲染</Name>
+				<Description>将单帧图片渲染分布到多台电脑</Description>
 			</Feature>
 		</Features>
 		<Categories></Categories>
 	</Software>
 	<Software Name="Audio Tool">
-		<Name>Audio Tool</Name>
-		<Description>The audio tool is for recording and mixing sound effects and music.</Description>
+		<Name>音频工具</Name>
+		<Description>用于录制和混合音效，也可以制作音乐</Description>
 		<Features>
 			<Feature Name="Audio playback">
-				<Name>Audio playback</Name>
+				<Name>音频回放</Name>
 			</Feature>
 			<Feature Name="Recording">
-				<Name>Recording</Name>
+				<Name>录音</Name>
 			</Feature>
 			<Feature Name="Music editor">
-				<Name>Music editor</Name>
+				<Name>音乐编辑</Name>
 			</Feature>
 			<Feature Name="Virtual instruments">
-				<Name>Virtual instruments</Name>
-				<Description>Guitar? MIDI Keyboard. Violin? MIDI Keyboard. Drums? MIDI Keyboard. Saxophone? Yes.</Description>
+				<Name>虚拟乐器</Name>
+				<Description>吉他？MIDI键盘小提琴？MIDI键盘鼓？MIDI键盘萨克斯？全包！！！</Description>
 			</Feature>
 			<Feature Name="Sound library">
-				<Name>Sound library</Name>
+				<Name>声音库</Name>
 			</Feature>
 			<Feature Name="Instrument library">
-				<Name>Instrument library</Name>
+				<Name>乐器库</Name>
 			</Feature>
 			<Feature Name="Autotune">
-				<Name>Autotune</Name>
-				<Description>This is a thing</Description>
+				<Name>自动调谐</Name>
+				<Description>这是一种趋势</Description>
 			</Feature>
 			<Feature Name="Audio compression">
-				<Name>Audio compression</Name>
+				<Name>音频压缩</Name>
 			</Feature>
 		</Features>
 		<Categories></Categories>
 	</Software>
 	<Software Name="Game Engine">
-		<Name>Game Engine</Name>
-		<Description>The game engine is what powers a game. It contains everything needed for a game, except for the creativity.</Description>
+		<Name>游戏引擎</Name>
+		<Description>游戏引擎是游戏的生命！它包含了游戏所需的一切，除了创意！</Description>
 		<Features>
 			<Feature Name="Text-based">
-				<Name>Text-based</Name>
+				<Name>基于文本</Name>
 			</Feature>
 			<Feature Name="2D rendering">
-				<Name>2D rendering</Name>
+				<Name>2D 渲染</Name>
 			</Feature>
 			<Feature Name="Visual editor">
-				<Name>Visual editor</Name>
-				<Description>Drag'n'drop is the best</Description>
+				<Name>可视化编辑器</Name>
+				<Description>拖放是最好的选择</Description>
 			</Feature>
 			<Feature Name="2D assets">
-				<Name>2D assets</Name>
-				<Description>Help the developer along with some prepackaged assets</Description>
+				<Name>2D资源</Name>
+				<Description>帮助开发人员获得一些好的资源</Description>
 			</Feature>
 			<Feature Name="3D rendering">
-				<Name>3D rendering</Name>
+				<Name>3D渲染</Name>
 			</Feature>
 			<Feature Name="3D assets">
-				<Name>3D assets</Name>
-				<Description>Like 2D assets, but with an extra dimension</Description>
+				<Name>3D资源</Name>
+				<Description>类似2D资源，但是拥有额外的维度</Description>
 			</Feature>
 			<Feature Name="VR">
 				<Name>VR</Name>
-				<Description>Virtual reality</Description>
+				<Description>虚拟现实</Description>
 			</Feature>
 			<Feature Name="Advanced shaders">
-				<Name>Advanced shaders</Name>
-				<Description>Not everything has to be flat! The irony is not lost on me</Description>
+				<Name>高级着色器</Name>
+				<Description>不是一切都是顺利的！我身上从不缺少嘲讽！</Description>
 			</Feature>
 			<Feature Name="Shadows">
-				<Name>Shadows</Name>
-				<Description>A very CREATIVE feature</Description>
+				<Name>阴影</Name>
+				<Description>非常有创意的特性</Description>
 			</Feature>
 			<Feature Name="PC speaker">
-				<Name>PC speaker</Name>
+				<Name>电脑扬声器</Name>
 			</Feature>
 			<Feature Name="8-bit audio">
-				<Name>8-bit audio</Name>
+				<Name>8-bit 音频</Name>
 			</Feature>
 			<Feature Name="Audio assets">
-				<Name>Audio assets</Name>
+				<Name>音频资源</Name>
 			</Feature>
 			<Feature Name="HD audio">
-				<Name>HD audio</Name>
+				<Name>HD 音频</Name>
 			</Feature>
 			<Feature Name="Networking">
-				<Name>Networking</Name>
+				<Name>联网</Name>
 			</Feature>
 			<Feature Name="Physics">
-				<Name>Physics</Name>
+				<Name>物理</Name>
 			</Feature>
 			<Feature Name="Scripting">
-				<Name>Scripting</Name>
-				<Description>Separate the game logic from the logic logic</Description>
+				<Name>脚本</Name>
+				<Description>将游戏逻辑和逻辑逻辑分开</Description>
 			</Feature>
 			<Feature Name="Visual scripting">
-				<Name>Visual scripting</Name>
-				<Description>It's like programming, but you use the mouse more</Description>
+				<Name>可视化脚本</Name>
+				<Description>类似编程，但鼠标操作内容更多</Description>
 			</Feature>
 		</Features>
 		<Categories></Categories>
 	</Software>
 	<Software Name="Game">
-		<Name>Game</Name>
-		<Description>Interactive art.</Description>
+		<Name>游戏</Name>
+		<Description>互动艺术</Description>
 		<Features>
 			<Feature Name="Text-based">
-				<Name>Text-based</Name>
-				<Description>Make the player type a novel to complete the game</Description>
+				<Name>基于文本</Name>
+				<Description>让玩家以阅读小说的方式完成游戏通关！</Description>
 			</Feature>
 			<Feature Name="2D graphics">
-				<Name>2D graphics</Name>
+				<Name>2D 图像</Name>
 			</Feature>
 			<Feature Name="3D graphics">
-				<Name>3D graphics</Name>
+				<Name>3D 图像</Name>
 			</Feature>
 			<Feature Name="VR">
 				<Name>VR</Name>
-				<Description>Virtual Reality</Description>
+				<Description>虚拟现实</Description>
 			</Feature>
 			<Feature Name="Physics">
-				<Name>Physics</Name>
-				<Description>Bouncy stuff</Description>
+				<Name>物理</Name>
+				<Description>有弹性的东西（大概是基于物理学开发）</Description>
 			</Feature>
 			<Feature Name="Music">
-				<Name>Music</Name>
+				<Name>音乐</Name>
 			</Feature>
 			<Feature Name="Dialog">
-				<Name>Dialog</Name>
+				<Name>对话</Name>
 			</Feature>
 			<Feature Name="Open world">
-				<Name>Open world</Name>
+				<Name>开放世界</Name>
 			</Feature>
 			<Feature Name="AI">
-				<Name>AI</Name>
+				<Name>AI（人工智能）</Name>
 			</Feature>
 			<Feature Name="Local multiplayer">
-				<Name>Local multiplayer</Name>
+				<Name>本地多人（局域网）</Name>
 			</Feature>
 			<Feature Name="Multiplayer">
-				<Name>Multiplayer</Name>
-				<Description>Facilitate the screaming of obscenities by teenagers from all over the world</Description>
+				<Name>多人游戏（在线）</Name>
+				<Description>方便来自世界各地的猥琐青少年尖叫</Description>
 			</Feature>
 			<Feature Name="MMO">
-				<Name>MMO</Name>
+				<Name>MMO（大型多人在线）</Name>
 			</Feature>
 			<Feature Name="Mod support">
-				<Name>Mod support</Name>
-				<Description>You can mod this feature out of the game if you want</Description>
+				<Name>Mod 支持</Name>
+				<Description>如果你愿意的话，你可以改编游戏的功能</Description>
 			</Feature>
 			<Feature Name="Touch support">
-				<Name>Touch support</Name>
+				<Name>触控支持</Name>
 			</Feature>
 			<Feature Name="Advanced input">
-				<Name>Advanced input</Name>
-				<Description>Wheels, joysticks, etc.</Description>
+				<Name>高级输入</Name>
+				<Description>摇杆, 手柄..等等</Description>
 			</Feature>
 			<Feature Name="Cutscenes">
-				<Name>Cutscenes</Name>
+				<Name>过场动画</Name>
 			</Feature>
 			<Feature Name="Advanced cutscenes">
-				<Name>Advanced cutscenes</Name>
-				<Description>Reflect player choices in the story by rendering cutscenes in realtime</Description>
+				<Name>高级过场动画</Name>
+				<Description>通过实时渲染场景来反应玩家在故事中的选择</Description>
 			</Feature>
 			<Feature Name="Motion capture">
-				<Name>Motion capture</Name>
+				<Name>动作捕捉</Name>
 			</Feature>
 		</Features>
 		<Categories>
 			<Category Name="RPG">
-				<Name>RPG</Name>
-				<Description>Role Playing Game</Description>
+				<Name>角色扮演（RPG）</Name>
+				<Description>角色扮演游戏</Description>
 			</Category>
 			<Category Name="Adventure">
-				<Name>Adventure</Name>
+				<Name>冒险</Name>
 			</Category>
 			<Category Name="Simulation">
-				<Name>Simulation</Name>
-				<Description>You're playing one!</Description>
+				<Name>模拟</Name>
+				<Description>你现在在玩的这个游戏就是！</Description>
 			</Category>
 			<Category Name="Sports">
-				<Name>Sports</Name>
+				<Name>体育</Name>
 			</Category>
 			<Category Name="RTS">
-				<Name>RTS</Name>
-				<Description>Real Time Strategy</Description>
+				<Name>即时战略（RTS）</Name>
+				<Description>即时战略游戏，例如：盟军敢死队，红警，帝国，魔兽争霸等等</Description>
 			</Category>
 			<Category Name="FPS">
-				<Name>FPS</Name>
-				<Description>First Person Shooter</Description>
+				<Name>第一人称射击（FPS）</Name>
+				<Description>第一人称射击游戏</Description>
 			</Category>
 		</Categories>
 	</Software>
 	<Software Name="Office Software">
-		<Name>Office Software</Name>
+		<Software Name="Office Software">
+		<Name>办公软件</Name>
 		<Description></Description>
 		<Features>
 			<Feature Name="Word processor">
-				<Name>Word processor</Name>
+				<Name>文字处理</Name>
 			</Feature>
 			<Feature Name="WYSIWYG">
-				<Name>WYSIWYG</Name>
-				<Description>What You See Is What You Get</Description>
+				<Name>所见即所得</Name>
+				<Description>你看到啥你就最后就会得到啥！</Description>
 			</Feature>
 			<Feature Name="Spellcheck">
-				<Name>Spellcheck</Name>
-				<Description>Make everyone seem competent</Description>
+				<Name>拼写检查</Name>
+				<Description>现在直到以后你都可以忽略拼写错误，也许吧！</Description>
 			</Feature>
 			<Feature Name="Auto layout">
-				<Name>Auto layout</Name>
-				<Description>i.e. spending 30 minutes trying to make the picture fit in the place</Description>
+				<Name>自动布局</Name>
+				<Description>即使花费30分钟也要尝试找到图片该在的位置</Description>
 			</Feature>
 			<Feature Name="Spreadsheet">
-				<Name>Spreadsheet</Name>
+				<Name>电子表格</Name>
 			</Feature>
 			<Feature Name="Custom functions">
-				<Name>Custom functions</Name>
-				<Description>A spreadsheet can always get more complicated</Description>
+				<Name>自定义功能</Name>
+				<Description>电子表格总是可以变得更复杂</Description>
 			</Feature>
 			<Feature Name="Charts">
-				<Name>Charts</Name>
+				<Name>图表</Name>
 			</Feature>
 			<Feature Name="Presentation">
-				<Name>Presentation</Name>
+				<Name>演示</Name>
 			</Feature>
 			<Feature Name="Vector graphics">
-				<Name>Vector graphics</Name>
-				<Description>Lines, boxes and circles, basically</Description>
+				<Name>矢量图</Name>
+				<Description>基本的线条，方框和圆圈</Description>
 			</Feature>
 			<Feature Name="Animations">
-				<Name>Animations</Name>
-				<Description>What better way to make your presentation seem cheesy</Description>
+				<Name>动画</Name>
+				<Description>什么方式可以让你的演示文稿看起来更酷炫</Description>
 			</Feature>
 			<Feature Name="Sound effects">
-				<Name>Sound effects</Name>
-				<Description>And this is our projected earnings for the next fiscal year *pew* *pew*</Description>
+				<Name>声音特效</Name>
+				<Description>这是我们明年的财政收益预估，吧啦吧啦吧啦....</Description>
 			</Feature>
 			<Feature Name="Templates">
-				<Name>Templates</Name>
+				<Name>模版</Name>
 			</Feature>
 			<Feature Name="Clipart">
-				<Name>Clipart</Name>
+				<Name>剪贴画（美工图案）</Name>
 			</Feature>
 			<Feature Name="Scripting">
-				<Name>Scripting</Name>
-				<Description>Because you can never satisfy everyone</Description>
+				<Name>脚本</Name>
+				<Description>因为你永远不可能满足每个人！</Description>
 			</Feature>
 			<Feature Name="Online backup">
-				<Name>Online backup</Name>
+				<Name>在线备份</Name>
 			</Feature>
 		</Features>
 		<Categories></Categories>
 	</Software>
 	<Software Name="CMS">
-		<Name>CMS</Name>
-		<Description>A Content Management System is mostly used for the very specific task of managing content</Description>
+		<Name>内容管理系统（CMS）</Name>
+		<Description>用于管理内容非常具体的任务（不同企业有不同定义）</Description>
 		<Features>
 			<Feature Name="File management">
-				<Name>File management</Name>
+				<Name>文件管理</Name>
 			</Feature>
 			<Feature Name="Visualization tools">
-				<Name>Visualization tools</Name>
+				<Name>可视化工具</Name>
 			</Feature>
 			<Feature Name="WYSIWYG">
-				<Name>WYSIWYG</Name>
-				<Description>What You See Is probably What You Get</Description>
+				<Name>所见即所得（WYSIWYG）</Name>
+				<Description>你看到的就是你将得到的</Description>
 			</Feature>
 			<Feature Name="Community">
-				<Name>Community</Name>
-				<Description>The internet needs more comment sections</Description>
+				<Name>社区</Name>
+				<Description>互联网需要更多评论部分</Description>
 			</Feature>
 			<Feature Name="Widgets">
-				<Name>Widgets</Name>
-				<Description>Also known as social media buttons</Description>
+				<Name>小工具</Name>
+				<Description>也被称为社交媒体按钮</Description>
 			</Feature>
 			<Feature Name="Themes">
-				<Name>Themes</Name>
+				<Name>主题</Name>
 			</Feature>
 			<Feature Name="GUI">
-				<Name>GUI</Name>
-				<Description>Graphical User Interface</Description>
+				<Name>图形化界面（GUI）</Name>
+				<Description>图形化用户的界面</Description>
 			</Feature>
 			<Feature Name="Bank integration">
-				<Name>Bank integration</Name>
+				<Name>银行整合</Name>
 			</Feature>
 			<Feature Name="Document generation">
-				<Name>Document generation</Name>
-				<Description>Invoices for everyone</Description>
+				<Name>文档生成</Name>
+				<Description>每个人的费用清单</Description>
 			</Feature>
 			<Feature Name="Statistics">
-				<Name>Statistics</Name>
+				<Name>统计</Name>
 			</Feature>
 			<Feature Name="User hierarchy">
-				<Name>User hierarchy</Name>
+				<Name>用户层次结构</Name>
 			</Feature>
 			<Feature Name="Work delegation">
-				<Name>Work delegation</Name>
-				<Description>Alternatively, run around the office screaming tasks at people</Description>
+				<Name>工作代表团</Name>
+				<Description>或者绕着办公室对员工们大吼出他们的任务</Description>
 			</Feature>
 			<Feature Name="Synchronization">
-				<Name>Synchronization</Name>
-				<Description>Or send floppy disk around once in a while</Description>
+				<Name>同步</Name>
+				<Description>每过一会儿向软盘发送一次同步内容</Description>
 			</Feature>
 		</Features>
 		<Categories>
 			<Category Name="Web Publishing">
-				<Name>Web Publishing</Name>
-				<Description>To avoid forcing bloggers to do backend webprograming</Description>
+				<Name>网页发布</Name>
+				<Description>避免强迫博主去做后台网页编辑</Description>
 			</Category>
 			<Category Name="Financial">
-				<Name>Financial</Name>
-				<Description>Help businesses keep track of their money</Description>
+				<Name>金融</Name>
+				<Description>帮助企业跟踪他们的财政状况</Description>
 			</Category>
 			<Category Name="Workflow">
-				<Name>Workflow</Name>
-				<Description>The virtual whiteboard</Description>
+				<Name>工作流程</Name>
+				<Description>虚拟白板</Description>
 			</Category>
 		</Categories>
 	</Software>
 	<Software Name="Antivirus">
-		<Name>Antivirus</Name>
-		<Description>Protecting computers from digital troublemakers since it became profitable to do so.</Description>
+		<Name>杀毒软件</Name>
+		<Description>保护电脑不受病毒制造者的破坏，不让他们从中非法获益！</Description>
 		<Features>
 			<Feature Name="File scan">
-				<Name>File scan</Name>
+				<Name>文件扫描</Name>
 			</Feature>
 			<Feature Name="User interface">
-				<Name>User interface</Name>
-				<Description>Make it easy for the user to manage their virus handling</Description>
+				<Name>用户界面</Name>
+				<Description>使用户方便管理自己的病毒处理</Description>
 			</Feature>
 			<Feature Name="Firewall">
-				<Name>Firewall</Name>
+				<Name>防火墙</Name>
 			</Feature>
 			<Feature Name="Background scan">
-				<Name>Background scan</Name>
-				<Description>Scan for viruses in the background causing hilarious file locks randomly</Description>
+				<Name>后台扫描</Name>
+				<Description>在后台扫描病毒，并随机生成文件锁</Description>
 			</Feature>
 			<Feature Name="Mail scan">
-				<Name>Mail scan</Name>
-				<Description>There's always room for enlargement</Description>
+				<Name>邮件扫描</Name>
+				<Description>这里总有更大的空间</Description>
 			</Feature>
 			<Feature Name="Virus database">
-				<Name>Virus database</Name>
-				<Description>Automagically keep your user's virus definitions up to date</Description>
+				<Name>病毒数据库</Name>
+				<Description>自动将用户的病毒定义保持最新</Description>
 			</Feature>
 		</Features>
 		<Categories></Categories>
 	</Software>
 	<Software Name="Logistics Application">
-		<Name>Logistics Application</Name>
+		<Name>逻辑软件</Name>
 		<Description></Description>
 		<Features>
 			<Feature Name="Commandline">
-				<Name>Commandline</Name>
+				<Name>命令行</Name>
 			</Feature>
 			<Feature Name="GUI">
-				<Name>GUI</Name>
+				<Name>图形化界面（GUI）</Name>
 			</Feature>
 			<Feature Name="Database">
-				<Name>Database</Name>
+				<Name>数据库</Name>
 			</Feature>
 			<Feature Name="Third-party integration">
-				<Name>Third-party integration</Name>
+				<Name>第三方接入</Name>
 			</Feature>
 		</Features>
 		<Categories></Categories>
 	</Software>
 	<Software Name="Website">
-		<Name>Website</Name>
+		<Name>网站</Name>
 		<Description></Description>
 		<Features>
 			<Feature Name="Static pages">
-				<Name>Static pages</Name>
+				<Name>静态页面</Name>
 			</Feature>
 			<Feature Name="Image gallery">
-				<Name>Image gallery</Name>
+				<Name>图库</Name>
 			</Feature>
 			<Feature Name="Dynamic pages">
-				<Name>Dynamic pages</Name>
+				<Name>动态页面</Name>
 			</Feature>
 			<Feature Name="Store">
-				<Name>Store</Name>
+				<Name>商城</Name>
 			</Feature>
 			<Feature Name="Database">
-				<Name>Database</Name>
+				<Name>数据库</Name>
 			</Feature>
 		</Features>
 		<Categories></Categories>
 	</Software>
 	<Software Name="Game Assets">
-		<Name>Game Assets</Name>
+		<Name>游戏素材</Name>
 		<Description></Description>
 		<Features>
 			<Feature Name="2D art">
-				<Name>2D art</Name>
+				<Name>2D艺术</Name>
 			</Feature>
 			<Feature Name="User interface graphics">
-				<Name>User interface graphics</Name>
+				<Name>用户界面图像</Name>
 			</Feature>
 			<Feature Name="Sound effects">
-				<Name>Sound effects</Name>
+				<Name>音效</Name>
 			</Feature>
 			<Feature Name="Music">
-				<Name>Music</Name>
+				<Name>音乐</Name>
 			</Feature>
 			<Feature Name="Written Dialogue">
-				<Name>Written Dialogue</Name>
+				<Name>书面对话</Name>
 			</Feature>
 			<Feature Name="3D models">
-				<Name>3D models</Name>
+				<Name>3D模型</Name>
 			</Feature>
 		</Features>
 		<Categories></Categories>
 	</Software>
 	<Software Name="Embedded System">
-		<Name>Embedded System</Name>
+		<Name>镶入式系统</Name>
 		<Description></Description>
 		<Features>
 			<Feature Name="Clock">
-				<Name>Clock</Name>
+				<Name>时钟</Name>
 			</Feature>
 			<Feature Name="Thermostat">
-				<Name>Thermostat</Name>
+				<Name>温控器</Name>
 			</Feature>
 			<Feature Name="Motor">
-				<Name>Motor</Name>
+				<Name>小马达</Name>
 			</Feature>
 			<Feature Name="User interface">
-				<Name>User interface</Name>
+				<Name>用户界面</Name>
 			</Feature>
 			<Feature Name="GPS">
 				<Name>GPS</Name>
 			</Feature>
 			<Feature Name="Networking">
-				<Name>Networking</Name>
+				<Name>联网</Name>
 			</Feature>
 		</Features>
 		<Categories></Categories>
