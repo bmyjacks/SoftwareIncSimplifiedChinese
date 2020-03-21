@@ -37,14 +37,14 @@
 按继续以继续本教程。</Message>
 	<Message id="BENEFIT3">如果您选中一项福利旁边的复选框并点击“应用”，则任何具有自定义福利的员工都将其重置为公司默认值。
 		
-You can change benefits for employees individually in the employee overview window. Try opening it now, select one or more employees and click "Change benefits".</Message>
-	<Message id="BENEFIT4">To override a company benefit for individual employees, you need to check the checkbox next to the benefit.</Message>
-	<Message id="BUILD MODE1">Start by entering "Build mode" by clicking the Build-button.</Message>
-	<Message id="BUILD MODE2">The game is always paused in build mode.
+您可以在员工概览窗口中单独更改员工福利。 现在尝试打开它，选择一个或多个员工，然后单击“更改福利”。</Message>
+	<Message id="BENEFIT4">要为单个员工覆盖公司福利，您需要选中福利旁边的复选框。</Message>
+	<Message id="BUILD MODE1">通过单击“构建”按钮进入“构建模式”开始。</Message>
+	<Message id="BUILD MODE2">游戏始终在构建模式下暂停。
 
-Let's start by building a room. You have two choices for how you want to build a room.
+让我们从建立一个房间开始。 您要如何构建房间有两种选择。
 
-Click on the "Rectangle rooms" button in the build panel to build a simple rectangle room or click the "Free angle rooms" button to build rooms in any shape you want, one wall at a time.
+单击构建面板中的“矩形房间”按钮以构建一个简单的矩形房间，或单击“自由角度的房间”按钮以您想要的任何形状来构建房间，一次只能建一堵墙。
 
 You can also use the "Free angle rooms" option to split rooms into two separate rooms, by simply building a wall through an existing room.</Message>
 	<Message id="BUILD MODE3">Now click somewhere inside the area you own, which has a grid, and then click somewhere else to finish your new room. Keep an eye on the cost while moving the cursor.</Message>

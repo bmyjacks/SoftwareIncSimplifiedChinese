@@ -11,6 +11,7 @@
 现在的master分支里的版本为**A11**，此版本兼容之前的版本(如A10)。
 
 ## 关于SoftwareInc的介绍
+
 这是一个关于软件开发方面的游戏。
 
 [Steam链接](https://store.steampowered.com/app/362620)

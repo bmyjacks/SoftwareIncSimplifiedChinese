@@ -8,7 +8,7 @@
 
 [中文版](./README.md)
 
-The current version in the master branch is **A10**. This version is compatible with previous versions(such as A10)
+The current version in the master branch is **A11**. This version is compatible with previous versions(such as A10)
 
 ## About SoftwareInc
 
@@ -24,11 +24,11 @@ Locate the installation folder for SoftwareInc.This can usually be found by clic
 
 After opening the folder, the structure of the game directory is similar to the following
 
-```
+```bash
 Furniture/
 Localization/
     English/
-    ## Put the SimplifiedChinese folder of this repo here ##
+    ## Create a new folder named 'Simplified Chinese', and put the suffix of the zip file in the compressed file downloaded from the releases of this repo into the folder.
 Materials/
 ```
 
