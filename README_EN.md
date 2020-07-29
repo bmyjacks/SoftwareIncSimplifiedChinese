@@ -20,7 +20,7 @@ This is a game about software development.
 
 ## How to use?
 
-Locate the installation folder for SoftwareInc.This can usually be found by clicking `right click > Properties > Local File > Browse local file` in the SoftwareInc icon in Steam.
+Locate the installation folder for `SoftwareInc`.This can usually be found by clicking `right click > Properties > Local File > Browse local file` in the SoftwareInc icon in Steam.
 
 After opening the folder, the structure of the game directory is similar to the following
 

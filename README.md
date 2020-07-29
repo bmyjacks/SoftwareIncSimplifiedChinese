@@ -20,7 +20,7 @@
 
 ## 如何使用？
 
-找到SoftwareInc的安装文件夹，这通常可以再Steam中的SoftwareInc图标中点击`右键>属性>本地文件>浏览本地文件`就可以找到了。
+找到`SoftwareInc`的安装文件夹，这通常可以再Steam中的SoftwareInc图标中点击`右键>属性>本地文件>浏览本地文件`就可以找到了。
 
 打开文件夹后，游戏目录的结构类似于以下这样
 
@@ -28,7 +28,7 @@
 Furniture/
 Localization/
     English/
-    ## 新建文件夹SimplifiedChinese，将本repo的relases中下载的压缩文件中的后缀是xml的文件放入文件夹中
+    ## 新建文件夹 SimplifiedChinese ，将本repo的relases中下载的压缩文件解压后放入文件夹中
 Materials/
 ```
 
