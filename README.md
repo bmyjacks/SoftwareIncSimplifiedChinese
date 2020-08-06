@@ -1,10 +1,11 @@
 # SoftwareInc 的简体中文翻译
 
-![GitHub repo size](https://img.shields.io/github/repo-size/bmyjacks/SoftwareIncSimplifiedChinese)
-![GitHub issues](https://img.shields.io/github/issues/bmyjacks/SoftwareIncSimplifiedChinese)
-![Steam Views](https://img.shields.io/steam/views/1985088899)
-![Steam Subscriptions](https://img.shields.io/steam/subscriptions/1985088899)
-![GitHub last commit](https://img.shields.io/github/last-commit/bmyjacks/SoftwareIncSimplifiedChinese)
+![GitHub repo size](https://img.shields.io/github/repo-size/bmyjacks/SoftwareIncSimplifiedChinese?logo=github&style=for-the-badge)
+![Steam File Size](https://img.shields.io/steam/size/1985088899?logo=steam&style=for-the-badge)
+![GitHub issues](https://img.shields.io/github/issues/bmyjacks/SoftwareIncSimplifiedChinese?logo=github&style=for-the-badge)
+![Steam Views](https://img.shields.io/steam/views/1985088899?label=Steam%20views&logo=Steam&style=for-the-badge)
+![Steam Subscriptions](https://img.shields.io/steam/subscriptions/1985088899?label=Steam%20subscriptions&logo=Steam&style=for-the-badge)
+![GitHub last commit](https://img.shields.io/github/last-commit/bmyjacks/SoftwareIncSimplifiedChinese?logo=github&style=for-the-badge)
 
 [English version](./README_EN.md)
 
