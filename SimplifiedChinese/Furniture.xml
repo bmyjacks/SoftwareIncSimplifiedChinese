@@ -31,7 +31,7 @@
 	<Furniture Name="Glass Table">
 		<Name>玻璃桌子</Name>
 		<Description>在办公的时候享受你坐上去的感觉</Description>
-		<Color1>Frame</Color1>
+		<Color1>框架</Color1>
 	</Furniture>
 	<Furniture Name="2m End Table">
 		<Name>2m的桌子</Name>
@@ -46,28 +46,28 @@
 	<Furniture Name="Cheap Chair">
 		<Name>便宜的椅子</Name>
 		<Description>不舒适的塑料椅子</Description>
-		<Color1>Seat</Color1>
-		<Color2>Support</Color2>
+		<Color1>座位</Color1>
+		<Color2>支持</Color2>
 	</Furniture>
 	<Furniture Name="Office Chair">
 		<Name>办公室椅</Name>
 		<Description>还不错的椅子，但是没有轮子</Description>
-		<Color1>Seat</Color1>
-		<Color2>Back</Color2>
-		<Color3>Support</Color3>
+		<Color1>座位</Color1>
+		<Color2>背部</Color2>
+		<Color3>支持</Color3>
 	</Furniture>
 	<Furniture Name="Executive Chair">
 		<Name>老板椅</Name>
 		<Description>最舒适的体验</Description>
-		<Color1>Seat</Color1>
-		<Color2>Back</Color2>
-		<Color3>Support</Color3>
+		<Color1>座位</Color1>
+		<Color2>背部</Color2>
+		<Color3>支持</Color3>
 	</Furniture>
 	<Furniture Name="Waiting Chairs">
 		<Name>等候椅</Name>
 		<Description></Description>
-		<Color1>Frame</Color1>
-		<Color2>Seat</Color2>
+		<Color1>框架</Color1>
+		<Color2>座位</Color2>
 	</Furniture>
 	<Furniture Name="Couch">
 		<Name>沙发</Name>
@@ -76,76 +76,76 @@
 	<Furniture Name="Bench">
 		<Name>长凳</Name>
 		<Description>这是一个长凳</Description>
-		<Color1>Base</Color1>
-		<Color2>Support</Color2>
+		<Color1>基础</Color1>
+		<Color2>支持</Color2>
 	</Furniture>
 	<Furniture Name="Small Heater">
 		<Name>小型加热器</Name>
 		<Description>满足办公室基本需求的小型加热设备</Description>
-		<Color1>Base</Color1>
+		<Color1>基础</Color1>
 	</Furniture>
-	<Furniture Name="Ceiling Fan">
+	<Furniture Name="Ceiling 风扇">
 		<Name>吊扇</Name>
 		<Description>漂亮的吊扇，不仅看起很酷，还能给房间降温，但就是噪音很大</Description>
-		<Color1>Base</Color1>
-		<Color2>Blades</Color2>
+		<Color1>基础</Color1>
+		<Color2>叶片</Color2>
 	</Furniture>
 	<Furniture Name="Radiator">
 		<Name>供热器</Name>
 		<Description>花更多的钱供暖，但是比小型加热器更有效</Description>
-		<Color1>Base</Color1>
+		<Color1>基础</Color1>
 	</Furniture>
 	<Furniture Name="Ventilation">
 		<Name>换气扇</Name>
 		<Description>小型通风设备，直接从墙外吸入新鲜空气</Description>
-		<Color1>Base</Color1>
-		<Color2>Fan</Color2>
+		<Color1>基础</Color1>
+		<Color2>风扇</Color2>
 	</Furniture>
 	<Furniture Name="Central Heating">
-		<Name>Central Heating</Name>
-		<Description>Industrial strength central heating unit to heat up entire buildings.</Description>
+		<Name>集中供热</Name>
+		<Description>工业实力的集中供热装置可以加热整个建筑物。</Description>
 		<Color1>基础的</Color1>
 	</Furniture>
 	<Furniture Name="AC Unit">
 		<Name>空调</Name>
 		<Description>工业级空调设备，可以给整幢建筑降温，不能放在地下室。最佳降温面积为375平方米</Description>
-		<Color1>Base</Color1>
+		<Color1>基础</Color1>
 	</Furniture>
 	<Furniture Name="Industrial ventilation">
 		<Name>工业通风</Name>
 		<Description>这个东西是针对服务器的，不是针对人类的！！！</Description>
-		<Color1>Base</Color1>
-		<Color2>Blades</Color2>
+		<Color1>基础</Color1>
+		<Color2>叶片</Color2>
 	</Furniture>
 	<Furniture Name="Old Computer">
 		<Name>老式电脑</Name>
 		<Description>一只手就能数过来的像素！</Description>
-		<Color1>Casing</Color1>
-		<Color2>Keys</Color2>
+		<Color1>套管</Color1>
+		<Color2>钥匙</Color2>
 	</Furniture>
 	<Furniture Name="90s Computer">
 		<Name>90年代的电脑</Name>
 		<Description></Description>
-		<Color1>Casing</Color1>
-		<Color2>Monitor</Color2>
-		<Color3>Keys</Color3>
+		<Color1>套管</Color1>
+		<Color2>监视器</Color2>
+		<Color3>钥匙</Color3>
 	</Furniture>
 	<Furniture Name="Laptop">
 		<Name>笔记本电脑</Name>
 		<Description></Description>
-		<Color1>Casing</Color1>
-		<Color2>Keys</Color2>
+		<Color1>套管</Color1>
+		<Color2>钥匙</Color2>
 	</Furniture>
 	<Furniture Name="Modern Computer">
 		<Name>现代电脑</Name>
 		<Description>满足你对时尚的一切需求</Description>
-		<Color1>Base</Color1>
-		<Color2>Keys</Color2>
+		<Color1>基础</Color1>
+		<Color2>钥匙</Color2>
 	</Furniture>
 	<Furniture Name="HoloComputer">
 		<Name>全息电脑</Name>
 		<Description>欢迎来到未来！这里一切都有些不太方便。</Description>
-		<Color1>Hologram</Color1>
+		<Color1>全息图</Color1>
 	</Furniture>
 	<Furniture Name="Cubicle wall">
 		<Name>隔墙</Name>
@@ -154,8 +154,8 @@
 	<Furniture Name="Lamp">
 		<Name>灯</Name>
 		<Description>确保你的员工工作到很晚时能有灯光，或者你不方便放窗户时可以用这个</Description>
-		<Color1>Shade</Color1>
-		<Color3>Lighting</Color3>
+		<Color1>阴影</Color1>
+		<Color3>灯光</Color3>
 	</Furniture>
 	<Furniture Name="Wall Lamp">
 		<Name>壁灯</Name>
@@ -164,26 +164,26 @@
 	<Furniture Name="Desk Lamp">
 		<Name>台灯</Name>
 		<Description>提高局部照明能力</Description>
-		<Color1>Base</Color1>
-		<Color3>Lighting</Color3>
+		<Color1>基础</Color1>
+		<Color3>灯光</Color3>
 	</Furniture>
 	<Furniture Name="Floor Lamp">
 		<Name>落地灯</Name>
 		<Description>提供照明，但是只能放在地上</Description>
-		<Color1>Shade</Color1>
-		<Color2>Support</Color2>
+		<Color1>阴影</Color1>
+		<Color2>支持</Color2>
 	</Furniture>
 	<Furniture Name="Fluorescent lamp">
 		<Name>日光灯</Name>
 		<Description>完美的照亮地下室，维护少，但对其他地方来说并不是太好</Description>
-		<Color1>Shade</Color1>
-		<Color3>Lighting</Color3>
+		<Color1>阴影</Color1>
+		<Color3>灯光</Color3>
 	</Furniture>
 	<Furniture Name="Outdoor Lamp">
 		<Name>户外灯</Name>
 		<Description>舒适的灯，避免你在晚上的户外活动时绊倒</Description>
-		<Color1>Base</Color1>
-		<Color3>Lighting</Color3>
+		<Color1>基础</Color1>
+		<Color3>灯光</Color3>
 	</Furniture>
 	<Furniture Name="Vending Machine">
 		<Name>自动贩卖机</Name>
@@ -196,8 +196,8 @@
 	<Furniture Name="Stove">
 		<Name>火炉</Name>
 		<Description>厨师用火炉加热食物，每个厨师都需要一个火炉.</Description>
-		<Color1>Base</Color1>
-		<Color2>Top</Color2>
+		<Color1>基础</Color1>
+		<Color2>最佳</Color2>
 	</Furniture>
 	<Furniture Name="Serving Tray">
 		<Name>托盘</Name>
@@ -206,137 +206,137 @@
 	<Furniture Name="Instant Coffee">
 		<Name>速溶咖啡机</Name>
 		<Description>在热水里放入一些棕色粉末，我想现在你不会在某些时候犯困了吧？</Description>
-		<Color1>Pot</Color1>
+		<Color1>能够</Color1>
 	</Furniture>
 	<Furniture Name="Coffee">
 		<Name>咖啡机</Name>
 		<Description>标准的磨咖啡机</Description>
-		<Color1>Base</Color1>
+		<Color1>基础</Color1>
 	</Furniture>
 	<Furniture Name="Espresso Machine">
 		<Name>浓缩咖啡机</Name>
 		<Description>依靠大量的水力，电力和人力维护来提供高品质的咖啡，但是噪音也会很大</Description>
-		<Color1>Base</Color1>
-		<Color2>Pot</Color2>
+		<Color1>基础</Color1>
+		<Color2>能够</Color2>
 	</Furniture>
 	<Furniture Name="Toilet">
 		<Name>马桶</Name>
 		<Description>冲水马桶</Description>
-		<Color1>Base</Color1>
+		<Color1>基础</Color1>
 	</Furniture>
 	<Furniture Name="Watercooler">
 		<Name>饮水机</Name>
 		<Description>员工交流的地方</Description>
-		<Color1>Shade</Color1>
-		<Color2>Support</Color2>
+		<Color1>阴影</Color1>
+		<Color2>支持</Color2>
 	</Furniture>
 	<Furniture Name="Painting">
 		<Name>壁画</Name>
 		<Description>用一张过时的画来让办公室生机勃勃</Description>
-		<Color1>Frame</Color1>
+		<Color1>框架</Color1>
 	</Furniture>
 	<Furniture Name="TV">
 		<Name>电视</Name>
 		<Description></Description>
-		<Color1>Frame</Color1>
+		<Color1>框架</Color1>
 	</Furniture>
 	<Furniture Name="Bookshelf">
 		<Name>书架</Name>
 		<Description>读书助你成功</Description>
-		<Color1>Base</Color1>
+		<Color1>基础</Color1>
 	</Furniture>
 	<Furniture Name="Reception desk">
 		<Name>服务台</Name>
 		<Description></Description>
-		<Color1>Base</Color1>
+		<Color1>基础</Color1>
 	</Furniture>
 	<Furniture Name="Floor Plant">
 		<Name>置地盆栽</Name>
 		<Description>迷人的置地植物</Description>
-		<Color1>Pot</Color1>
+		<Color1>能够</Color1>
 	</Furniture>
 	<Furniture Name="Table Plant">
 		<Name>桌面盆栽</Name>
 		<Description>低矮的盆景</Description>
-		<Color1>Pot</Color1>
+		<Color1>能够</Color1>
 	</Furniture>
 	<Furniture Name="Table Cactus">
 		<Name>仙人掌</Name>
 		<Description></Description>
-		<Color1>Pot</Color1>
+		<Color1>能够</Color1>
 	</Furniture>
 	<Furniture Name="Big Plant">
 		<Name>大型盆栽</Name>
 		<Description>占用了大量的空间，但因为它看起来不错所以员工们可以接受。</Description>
-		<Color1>Pot</Color1>
+		<Color1>能够</Color1>
 	</Furniture>
 	<Furniture Name="Small tree">
 		<Name>小型树木</Name>
 		<Description>以不同角度来放置它，使其看起来更多变。（认真脸！！！）</Description>
-		<Color1>Pot</Color1>
+		<Color1>能够</Color1>
 	</Furniture>
 	<Furniture Name="Small pine tree">
 		<Name>小松树</Name>
 		<Description></Description>
-		<Color1>Pot</Color1>
+		<Color1>能够</Color1>
 	</Furniture>
 	<Furniture Name="Clock">
 		<Name>时钟</Name>
 		<Description>时间机器！（但并不是时光机！）</Description>
-		<Color1>Background</Color1>
-		<Color2>Frame</Color2>
+		<Color1>背景</Color1>
+		<Color2>框架</Color2>
 	</Furniture>
 	<Furniture Name="Small Server">
 		<Name>小型服务器</Name>
 		<Description>一台普通的机器，提供网络</Description>
-		<Color1>Casing</Color1>
+		<Color1>套管</Color1>
 	</Furniture>
 	<Furniture Name="Medium Server">
 		<Name>中型服务器</Name>
 		<Description>相当于两台小型服务器</Description>
-		<Color1>Casing</Color1>
+		<Color1>套管</Color1>
 	</Furniture>
 	<Furniture Name="Tower Server">
 		<Name>塔式服务器</Name>
 		<Description>高性能的塔！（但并不真是一座塔）</Description>
-		<Color1>Casing</Color1>
-		<Color2>Lighting</Color2>
+		<Color1>套管</Color1>
+		<Color2>灯光</Color2>
 	</Furniture>
 	<Furniture Name="Server Rack">
 		<Name>服务器机架</Name>
 		<Description>如果一台服务器不够用...那就多来几台！</Description>
-		<Color1>Casing</Color1>
-		<Color2>Support</Color2>
+		<Color1>套管</Color1>
+		<Color2>支持</Color2>
 	</Furniture>
 	<Furniture Name="Big Server Rack">
 		<Name>大型服务器机架</Name>
 		<Description>当你的服务器不够用时的首选</Description>
-		<Color1>Casing</Color1>
-		<Color2>Casing</Color2>
-		<Color3>LED</Color3>
+		<Color1>套管</Color1>
+		<Color2>套管</Color2>
+		<Color3>发光二极管</Color3>
 	</Furniture>
 	<Furniture Name="Phone">
 		<Name>电话</Name>
 		<Description>你想打给谁？客服小姐姐！</Description>
-		<Color1>Base</Color1>
-		<Color2>Handle</Color2>
+		<Color1>基础</Color1>
+		<Color2>处理</Color2>
 	</Furniture>
 	<Furniture Name="Drawing Tablet">
 		<Name>手绘板</Name>
 		<Description>比起手动输入像素坐标要轻松得多</Description>
-		<Color1>Base</Color1>
-		<Color2>Pad</Color2>
+		<Color1>基础</Color1>
+		<Color2>垫</Color2>
 	</Furniture>
 	<Furniture Name="Calculator">
 		<Name>计算器</Name>
 		<Description>计算器是程序员最好的朋友</Description>
-		<Color1>Base</Color1>
-		<Color2>Keys</Color2>
+		<Color1>基础</Color1>
+		<Color2>按键</Color2>
 	</Furniture>
 	<Furniture Name="Inbox">
 		<Name>收件箱</Name>
 		<Description>帮助你组织员工，特别有助于没有听过电子邮件的人</Description>
-		<Color1>Box</Color1>
+		<Color1>框</Color1>
 	</Furniture>
 	<Furniture Name="Small Product Printer">
 		<Name>小型打印机</Name>

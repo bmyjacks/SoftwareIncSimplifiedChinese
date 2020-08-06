@@ -46,31 +46,31 @@
 
 单击构建面板中的“矩形房间”按钮以构建一个简单的矩形房间，或单击“自由角度的房间”按钮以您想要的任何形状来构建房间，一次只能建一堵墙。
 
-You can also use the "Free angle rooms" option to split rooms into two separate rooms, by simply building a wall through an existing room.</Message>
-	<Message id="BUILD MODE3">Now click somewhere inside the area you own, which has a grid, and then click somewhere else to finish your new room. Keep an eye on the cost while moving the cursor.</Message>
-	<Message id="BUILD MODE4">You might have noticed that you were limited to the grid when you built your room. You can change the grid and building angles if you want, by moving the grid gizmo to a wall or piece of furniture. This might come in handy if you want to build tables along a diagonal wall for example.
+您还可以使用“自由角度房间”选项，只需在现有房间中建造一堵墙，即可将房间分成两个单独的房间。</Message>
+	<Message id="BUILD MODE3">现在，在您拥有的区域（具有网格）中的某个位置单击，然后在其他位置单击以完成新房间。 移动光标时，请留意成本。</Message>
+	<Message id="BUILD MODE4">您可能已经注意到，建造房间时仅限于网格。 您可以根据需要通过将栅格小控件移动到墙壁或家具上来更改栅格和建筑角度。 例如，如果您想沿对角墙构建桌子，这可能会派上用场。
 
-If you don't like how your room looks, you can use the undo button or {KeyBind:Undo} to undo your changes.
+如果您不喜欢房间的外观，可以使用撤消按钮或{KeyBind:Undo}撤消更改。
 
-Click Continue when you are ready.</Message>
-	<Message id="BUILD MODE5">You can move up and down floors by pressing {KeyBind:FloorUp} and {KeyBind:FloorDown}.
+准备好后，请单击继续。</Message>
+	<Message id="BUILD MODE5">您可以通过按{KeyBind:FloorUp}和{KeyBind:FloorDown}上下移动地板。
 
-Now let's add windows and doors. You can either select a category or search for "window" or "door" in the build panel.</Message>
-	<Message id="BUILD MODE6">Notice how the room lights up when you add windows, make sure to add enough so that your employees can see.
+现在让我们添加门窗。 您可以选择一个类别，也可以在构建面板中搜索“窗口”或“门”。</Message>
+	<Message id="BUILD MODE6">请注意，在添加窗口时，房间是如何点亮的，请确保添加足够的空间，以便员工可以看到。
 
-You can inspect lighting, environment, temperature and noise conditions by clicking on and selecting the room.</Message>
-	<Message id="BUILD MODE7">You can also change the color of your rooms and furniture.
+您可以通过单击并选择房间来检查照明，环境，温度和噪声状况。</Message>
+	<Message id="BUILD MODE7">您还可以更改房间和家具的颜色。
 
-Try changing the color of your room by pressing {KeyBind:ContextMenu} on it and then click the "Room colors" button that resembles a brush.</Message>
-	<Message id="BUILD MODE8">You can change the color of multiple things at once by pressing {KeyBind:MultipleSelect} or {KeyBind:SweepSelect} and selecting the objects before your open the color window. The color window will suggest colors that are currently in use.
+尝试通过在房间上按{KeyBind:ContextMenu}来更改房间的颜色，然后单击类似于画笔的“房间颜色”按钮。</Message>
+	<Message id="BUILD MODE8">在打开颜色窗口之前，可以通过按{KeyBind:MultipleSelect}或{KeyBind:SweepSelect}并选择对象来一次更改多个事物的颜色。 颜色窗口将提示当前正在使用的颜色。
 
-If you like the style you have given a room, you can save it by using the context menu.
+如果您喜欢给房间的样式，则可以使用上下文菜单进行保存。
 
-Click Apply when you are ready or close the window if you want to cancel your changes.</Message>
-	<Message id="BUILD MODE9">Let's put some furniture in your new room.
+准备好后，请单击“应用”；如果要取消更改，请关闭窗口。</Message>
+	<Message id="BUILD MODE9">让我们在新房间里放些家具。
 
-Build a new table by clicking on the "Furnish" button or searching for "table".</Message>
-	<Message id="BUILD MODE10">Now add a chair. Chairs can only be added to tables.
+通过单击“布置”按钮或搜索“桌子”来构建新桌子。</Message>
+	<Message id="BUILD MODE10">现在添加椅子。 椅子只能添加到桌子上。
 
 Note that some furniture, like chairs and tables, can be replaced with alternate versions after they have been placed. You can use the context menu to easily replace a lot of furniture at once, by selecting all furniture of the same type in the selected rooms for example.</Message>
 	<Message id="BUILD MODE11">Finally add a computer. When you add a computer click and hold where you want to add it and drag the mouse in the direction you want it to face, finally, release the mouse button to place it.
