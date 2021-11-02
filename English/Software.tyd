@@ -19,14 +19,6 @@ Most software needs an Operating System to run on. When people stop buying a lin
                 "Let your users pretend they can multitask by having several applications open at any one time"
                 ]
             }
-        Feature
-            {
-            Touch
-                [
-                "Touch"
-                "You can never have enough greasy finger prints on a surface"
-                ]
-            }
         Feature { Useraccounts "User accounts" }
         Feature
             {
@@ -81,6 +73,44 @@ Most software needs an Operating System to run on. When people stop buying a lin
             }
         Feature { Appstore "App store" }
         Feature { Cloudbackup "Cloud backup" }
+        Feature { Hardware "Hardware" }
+        Feature
+            {
+            Touch
+                [
+                "Touch"
+                "You can never have enough greasy finger prints on a surface"
+                ]
+            }
+        Feature
+            {
+            Vibration [ "Vibration"; "Device go brrr" ]
+            }
+        Feature { Fingerprintscanner "Fingerprint scanner" }
+        Feature
+            {
+            Motiondetection
+                [
+                "Motion detection"
+                "Who doesn't want joysticks embedded in their TVs?"
+                ]
+            }
+        Feature
+            {
+            Externaldrive
+                [
+                "External drive"
+                "We put save games on memory cards and save games on hard drives"
+                ]
+            }
+        Feature
+            {
+            Superoptimization
+                [
+                "Super optimization"
+                "Spend time when developing software to save money when ordering hardware (Remove extra cost when ordering product prints)"
+                ]
+            }
         ]
     Categories
         [
@@ -96,6 +126,23 @@ Most software needs an Operating System to run on. When people stop buying a lin
             {
             Phone [ "Phone"; "For the pocket" ]
             }
+        ]
+    Components
+        [
+        Component { Gyroscope "Gyroscope" }
+        Component { Rumbleunit "Rumble unit" }
+        Component { Plastic "Plastic" }
+        Component { Board "Board" }
+        Component { Joystick "Joystick" }
+        Component { Drivebay "Drive bay" }
+        Component { Controller "Controller" }
+        Component { Console "Console" }
+        Component { Touchsensor "Touch sensor" }
+        Component { Vibration "Vibration" }
+        Component { Screen "Screen" }
+        Component { Phoneassembly "Phone assembly" }
+        Component { Fingerprintscanner "Fingerprint scanner" }
+        Component { Case "Case" }
         ]
     }
 
@@ -650,6 +697,18 @@ Software
         Feature { GPS "GPS" }
         Feature { Hardwareinterface "Hardware interface" }
         Feature { Userinterface "User interface" }
+        ]
+    Components
+        [
+        Component { Thermostat "Thermostat" }
+        Component { Camera "Camera" }
+        Component { Speaker "Speaker" }
+        Component { Motor "Motor" }
+        Component { Display "Display" }
+        Component { GPS "GPS" }
+        Component { USB "USB" }
+        Component { Board "Board" }
+        Component { Case "Case" }
         ]
     }
 

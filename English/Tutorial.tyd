@@ -47,7 +47,7 @@ Toggle the audio overlay to advance."
 Right click your new room and choose {H:Switch team}, which resembles a circle with arrows. A window will appear, click on {H:Core} to assign the room to the Core team.
 
 Remember to assign employees to a team as well. You can do this either by pressing {KeyBind:ContextMenu} on an employee and choosing {H:Switch team}, from the employees window or directly in the hiring window."
-    SHARED12                "Start the tutorial by pressing the \"Develop software\" button to bring up the design document."
+    SHARED12                "Start the tutorial by pressing the {H:Develop software} button to bring up the design document."
     SHARED13                "Continue by going to the first page of the advanced design document."
     SHARED14                "Welcome to the design document, the heart of Software Inc. This is where you decide what kind of software you want to make.
 
@@ -99,9 +99,22 @@ Take special note of the {H:Expected interest} percent, as adding more features 
 Having more than the suggested amount of employees on the development teams will result in diminishing returns, so you're paying more in salaries, but getting a smaller and smaller speed increase in return."
     SHARED26                "After you've went through the phases of development and you're ready to release your product, remember to see if any popular products have just been released in the same software category as yours.
 
-You can also check out upcoming releases from your competitors to make sure a large company won't outshine your product.
+You can also check out the {H:Event calendar} to avoid upcoming releases from your competitors and make sure a large company won't outshine your product.
 
 Timing is everything when you're just starting out!"
+    SHARED27                "To transport boxes around your building you need {H:conveyor belts}.
+
+{H:Conveyor belts} allow you to route boxes through walls and onto pallets or directly to the outside for couriers to pick up, by placing {H:Garage ports}.
+
+You can direct boxes from different places to the same destination by placing conveyor belts perpendicular to each other. Or you can split boxes in different directions by placing {H:Conveyor Splitters}. Make sure you leave room on your conveyor belts for boxes to pass, as machines won't be able to push out boxes if the conveyor belt in front of them is blocked."
+    SHARED28                "{H:Pallets} can be used as storage, to avoid a box pileup, or as a pickup point for {H:couriers}.
+
+Place {H:drop points} on {H:conveyor belts} adjacent to {H:pallets} to drop boxes off when the conveyor belts are obstructed and place {H:pickup points} to move boxes from pallets to a conveyor belt when the path is clear.
+		
+Exit {H:build mode} when you are ready."
+    SHARED29                "In the staff window you can either hire {H:couriers} to come once every day and pick up boxes or call a courier to pick up as many boxes as possible immediately. Calling couriers is a lot more expensive and should be reserved for emergencies.
+		
+When you are ready, open the {H:distribution window} to see how you can run your own digital distribution store."
     ADVANCEDDESIGNDOCUMENT3 "The first page of the advanced design document resembles the simple design document, but with an added {H:Framework} panel.
 
 You can use or create a framework when developing software. Frameworks speed up development, but lock down the maximum tech levels of your features.
@@ -346,19 +359,20 @@ Close the {H:Select role} window and click {H:Continue} to advance the tutorial.
     EMPLOYEES7              "With your employee selected, press {KeyBind:ContextMenu} once again to bring up the context menu and select {H:Employee details}, which resembles a single person."
     EMPLOYEES8              "Here you can see the stats of your employee.
 
-In top left corner you can see your employee's personality traits, and below that, your employee's specialization progress in each role. When an employee has filled the progress meter, they will be eligible for education in that role to gain a new star. Clicking a role will also allow you to assign the employee to that role."
-    EMPLOYEES9              "In bottom left part of the window you can see your employee's specializations, which shows how educated your employee is in different subjects.
+In top left corner you can see your employee's personality traits, and to the right, your employee's specialization progress in each role. When an employee has filled the progress meter, they will be eligible for education in that role to gain a new star. Clicking a role will also allow you to assign the employee to that role."
+    EMPLOYEES9              "In middle right part of the window you can see your employee's {H:specializations}, which shows how educated your employee is in different subjects.
 
 Specializations control which kind of tasks your employee can complete. The {H:base skill} is your employee's experience in that role, which controls the speed and quality of their work in various situations."
-    EMPLOYEES10             "In top right corner of the window you can see your employee's traits. These traits are controlled by your employee's two personality traits.
+    EMPLOYEES10             "In top left of the window you can see your employee's traits. These traits are controlled by your employee's personality.
 
 You can hover over each of the three traits to see how they affect the employee."
-    EMPLOYEES11             "In the center right part of the window, you can see the latest thoughts of your employee, this will tell you how happy they are with their place of work, and how effective they are at their job as a consequence.
+    EMPLOYEES11             "In the bottom left part of the window, you can see the latest thoughts of your employee, this will tell you how happy they are with their place of work, and how effective they are at their job as a consequence.
 
 You should inspect this often to see how well an employee is doing and whether you can do anything to improve their satisfaction."
-    EMPLOYEES12             "Finally, in the bottom right part of the window, you can see what is currently affecting your employee's effectiveness when working.
+    EMPLOYEES12             "In the bottom right part of the window, you can see what is currently affecting your employee's effectiveness when working.
 	
 You can use this to see what is wrong if your employees suddenly start working slowly or not at all."
+    EMPLOYEESCompat         "Finally, in the middle left part of the window, you can inspect this employee's compatibility with the rest of their team."
     EMPLOYEES13             "In the beginning of the game you will need to make some quick cash.
 
 Bring up the Contract window to get some work."
@@ -435,6 +449,39 @@ Try selecting a room you can lease now. Rooms that are available for leasing can
 
 When you are ready to continue, exit build mode."
     LEASING13               "When you are ready, open the employees window to start managing your employees."
+    MANUFACTURING1          "Start the tutorial by pressing the {H:Develop software} button to bring up the design document."
+    MANUFACTURING2          "Some products have to be manufactured and can't be sold digitally, like {H:phones} and {H:gaming consoles}. However, these products usually have a lower barrier to entry for market penetration, but require a high upfront investment. You'll also be able to satisfy customers more easily by adding hardware features, rather than spending years coding complex software features.
+
+Ordering hardware gets very expensive, and you'll have to setup your own manufacturing if you want to make a decent profit.
+
+Try selecting a {H:software type} and {H:category} that requires hardware manufacturing, like the {H:console operating system}"
+    MANUFACTURING3          "Now click the {H:Manufacturing} button to see what you'll need to manufacture this product."
+    MANUFACTURING4          "The {H:manufacturing view} shows you which components need to be printed, and how they should be assembled.
+			
+The top most components need to be printed and will show you how many {H:Component printers} you need, to print as many components as possible per month. These components will determine the cost to manufacture one copy of your product. The rest of the components will be assembled in {H:Component assemblers}, using the printed components, and do not incur a fee.
+
+Try opening the {H:Distribution window} now and check out the {H:Hardware} tab to see active hardware manufacturing jobs."
+    MANUFACTURING5          "When you select a printing task in this panel, you will get an overview of the needed components in this window as well. You can click the {H:Pop out} button and enter build mode to view the requirements while you're placing down printers and assemblers.
+
+Once you've finished inspecting the distribution window, open {H:Build mode} to see how you setup your own manufacturing plant."
+    MANUFACTURING6          "To setup your own manufacturing, you'll need 3 machines:
+	•{H:Component printer} to print your components.
+	•{H:Component assembler} to assemble your components and eventually your final product. The assembler can hold onto 20 assemblies before they are pushed through, so make sure you have enough for the amount of components you print.
+	•{H:Component recycler} at the end of your manufacturing process, to recycle any components in unfinished assemblies, in case you have inefficiencies in your setup. Recycled components will be used for future prints, without incurring a fee.
+
+Note that any box entering an assembler or recycler, which does not belong there, will just be pushed through to the other side.
+
+You'll find them in the furnish menu."
+    MANUFACTURING8          "Note that products have to go through the {H:Final assembly} step to be shippable. Components in white boxes will not go on pallets or garage ports.
+
+When you've placed down your printers and assemblers, and connected them with conveyor belts, they will automatically be grouped into {H:assembly lines}, which you can assign tasks to and manage as a whole.
+
+Note that you can use a {H:Component recycler} to split up assembly lines that would otherwise be grouped together.
+
+Try opening the {H:Assembly lines} window now and check out the {H:Assembly line} and {H:Manufacturing} data overlays."
+    MANUFACTURING9          "The {H:Assembly line} data overlay will show you which printers and assemblers have been grouped by their assembly line color, which you can change by clicking the color directly in the list.
+
+The {H:Manufacturing} data overlay allows you to visualize how components will travel through your assembly lines and their current efficiency."
     MARKETING1              "Marketing is crucial in Software Inc. Your products simply won't sell without marketing.
 
 You can start a marketing campaign by opening your release window, selecting a product and clicking the market button"
@@ -482,18 +529,15 @@ This is the copy order window. It will show you some details that affect how man
 
 You'll have to balance the amount you order with how many you expect to sell to avoid a loss. You can always order a few copies now and order more next month.
 
-Close the window to continue"
-    PHYSICALDISTRIBUTION3   "You can also print copies of your product yourself, which is a lot cheaper long term, but requires a lot more work from you. You'll need printers, storage and couriers to transport your copies to stores.
+Close the window to continue."
+    PHYSICALDISTRIBUTION3   "You can also print copies of your product yourself, which is a lot cheaper long term, but requires a lot more work from you. You'll need {H:printers}, {H:storage}, {H:conveyor belts} and {H:couriers} to transport your copies to stores.
 		
-If you have all the necessary logistics, you can click the \"Start printing\" button in the \"Your releases\" window with a product selected to start a printing task.
+If you have all the necessary logistics, you can click the {H:Start printing} button in the {H:Your releases} window with a product selected to start a printing task.
 
-Go to build mode to see how you build printers and pallets."
-    PHYSICALDISTRIBUTION4   "You'll find printers and pallets in the furnish menu.
-		
-Exit build mode when you are ready."
-    PHYSICALDISTRIBUTION5   "In the staff window you can either hire couriers to come once every day and pick up copies or call a courier to pick up as many copies as possible immediately. Calling couriers is a lot more expensive and should be reserved for emergencies.
-		
-When you are ready, open the distribution window to see how you can run your own digital distribution store."
+Go to build mode to see how you setup your printing logistics."
+    PHYSICALDISTRIBUTION4   "You'll find printers in the furnish menu.
+
+Small printers can be placed directly on conveyor belts and larger printers can be placed on the ground to drop boxes on conveyor belts adjacent to them."
     PROJECTMANAGEMENT1      "Start by opening the project management window."
     PROJECTMANAGEMENT2      "Project management let's you delegate a release cycle to a leader in your company, so they control everything from creating a design to supporting the product once it's released.
 
@@ -553,12 +597,12 @@ The game's choices might not be optimal, but you can safely start development at
 If you want to dive deeper into dependencies, frameworks and market targeting, you can switch to the advanced version of the design document by clicking {H:Advanced}, otherwise just click {H:Develop}."
     STAFF1                  "Begin by opening the staff window."
     STAFF2                  "This is the staff window. At the top you will see a list of your currently employed staff, whether permanent or temporary."
-    STAFF3                  "With the buttons under \"Permanent:\" you can hire staff permanently to clean, fix your furniture, etc. You can see their salary by hovering over the buttons. They will show up once a day until you dismiss them.
+    STAFF3                  "With the buttons under {H:Permanent} you can hire staff permanently to clean, fix your furniture, etc. You can see their salary by hovering over the buttons. They will show up once a day until you dismiss them.
 
 You can change their working hours using the buttons in the list."
-    STAFF4                  "With the buttons under \"Temporary:\" you can hire staff temporarily. They will stay until their job is done or until you dismiss them. Hovering over the buttons will show you their terms.
+    STAFF4                  "With the buttons under {H:Temporary} you can hire staff temporarily. They will stay until their job is done or until you dismiss them. Hovering over the buttons will show you their terms.
 
-Press \"End\" to end the tutorial."
+Press {H:Finish} to end the tutorial."
     STOCKS1                 "Start by opening your company detail window to view your stocks."
     STOCKS2                 "In the upper right corner of the company window, there's panel that allows you to sell shares in your company. Your company's value depends on how well your company is doing selling services and products, which determines how much of your company you can sell.
 
